@@ -1,0 +1,963 @@
+{
+  "characters": [
+    {
+      "name": "Jesus",
+      "hints": [
+        "Praticamente todos os académicos contemporâneos concordam que ele existiu realmente",
+        "Foi um homem que viveu na Galileia na primeira metade do século I, que era filho de um carpinteiro, que provavelmente tinha outros irmãos.",
+        "Provavelmente foi um dos discípulos de João Batista, que o batizou.",
+        "Geralmente o retratam em um ou mais dos seguintes papéis: o líder de um movimento apocalíptico, um curandeiro carismático, um sábio e filósofo, ou um reformista igualitário.",
+        "Figura central do cristianismo e aquele que os ensinamentos de maior parte das denominações cristãs, além dos judeus messiânicos, consideram ser o Filho de Deus."
+      ]
+    },
+    {
+      "name": "Moisés",
+      "hints": [
+        "Seu nome é tradicionalmente traduzido como 'tirado das águas'",
+        "A Bíblia o denomina o «mais humilde do que todos os homens que havia sobre a face da terra»",
+        "Foi um líder religioso, o segundo juiz de Israel, legislador e profeta, a quem a autoria da Torá é tradicionalmente atribuída.",
+        "Segundo a Bíblia, recebeu no alto do Monte Sinai as Tábuas da Lei de Deus, contendo os Dez Mandamentos.",
+        "Depois guiou o seu povo através de um êxodo pelo deserto durante quarenta anos, que se iniciou através da famosa passagem em que Deus abre o mar Vermelho, para possibilitar a travessia segura dos filhos de Israel."
+      ]
+    },
+    {
+      "name": "Buda",
+      "hints": [
+        "Foi um príncipe de uma região no sul do atual Nepal.",
+        "Renunciou ao trono.",
+        "A época de seu nascimento e a de sua morte são incertas: na sua maioria, os primeiros historiadores do século XX datavam seu tempo de vida por volta de 563 a.C. a 483 a.C.",
+        "Uma variedade de seus ensinamentos foram repassados através da tradição oral e, então, escritos cerca de 400 anos após a sua morte.",
+        "Se dedicou à busca da erradicação das causas do sofrimento humano e de todos os seres, e desta forma encontrou um caminho até ao 'despertar' ou 'iluminação'."
+      ]
+    },
+    {
+      "name": "Mahatma Gandhi",
+      "hints": [
+        "Foi um advogado.",
+        "Nascido e criado em uma família hindu no litoral de Guzerate, oeste da Índia.",
+        "Empregou pela primeira vez a desobediência civil não-violenta como advogado expatriado na África do Sul, na luta da comunidade indígena pelos direitos civis.",
+        "Ele foi preso por muitos anos, em várias ocasiões, na África do Sul e na Índia.",
+        "Empregou resistência não violenta para liderar a campanha bem-sucedida para a independência da Índia do Reino Unido, e por sua vez, inspirar movimentos pelos direitos civis e liberdade em todo o mundo."
+      ]
+    },
+    {
+      "name": "Martin Luther King",
+      "hints": [
+        "Foi um pastor batista e ativista político.",
+        "Se tornou o primeiro presidente da Conferência da Liderança Cristã do Sul.",
+        "liderou em 1955 o boicote aos ônibus de Montgomery.",
+        "Ganhou o Prêmio Nobel da Paz por combater o racismo nos Estados Unidos através da resistência não-violenta.",
+        "Ajudou na organização da Marcha sobre Washington onde ele ditou seu famoso discurso 'Eu Tenho um Sonho' (em inglês: 'I Have a Dream') aos pés do Memorial de Lincoln."
+      ]
+    },
+    {
+      "name": "Isaac Newton",
+      "hints": [
+        "Foi um astrônomo, alquimista, filósofo natural, teólogo e cientista, mais reconhecido como físico e matemático.",
+        "Em uma pesquisa promovida pela Royal Society, foi considerado o cientista que causou maior impacto na história da ciência.",
+        "Desenvolveu a teoria das cores baseada na observação que um prisma decompõe a luz branca em várias cores do espectro visível.",
+        "Sua obra, Princípios Matemáticos da Filosofia Natural é considerada uma das mais influentes na história da ciência.",
+        "Esta obra descreve a lei da gravitação universal e as três leis, que fundamentaram a mecânica clássica."
+      ]
+    },
+    {
+      "name": "Galileo Galilei",
+      "hints": [
+        "Foi um físico, matemático, astrônomo e filósofo.",
+        "Foi personalidade fundamental na revolução científica.",
+        "Descobriu a lei dos corpos e enunciou o princípio da inércia e o conceito de referencial inercial",
+        "Defendeu o conceito de que a Terra não era o centro do universo.",
+        "Foi acusado pelas autoridades da Inquisição e ameaçado de pena de morte, caso não renegasse publicamente as verdades científicas que tinha comprovado."
+      ]
+    },
+    {
+      "name": "Sócrates",
+      "hints": [
+        "Foi um filósofo",
+        "Creditado como um dos fundadores da filosofia ocidental",
+        "Teve vários alunos, um deles era Platão.",
+        "Foi culpado do crime de não reconhecer os deuses reconhecidos pelo Estado e de introduzir divindades novas; ele é ainda culpado de corromper a juventude",
+        "Teve que tomar uma xícara de um veneno mortal chamado cicuta"
+      ]
+    },
+    {
+      "name": "Aristóteles",
+      "hints": [
+        "Foi um filósofo",
+        "Todos os aspectos da sua filosofia continuam sendo objeto de estudos acadêmicos.",
+        "Apenas cerca de um terço de sua produção original sobreviveu",
+        "Aluno de Platão e professor de Alexandre, o Grande.",
+        "A lógica, como disciplina intelectual, foi criada no século IV a.C. por ele."
+      ]
+    },
+    {
+      "name": "Albert Einstein",
+      "hints": [
+        "Foi um físico teórico.",
+        "Suas obras renderam-lhe o status de celebridade mundial enquanto tornava-se uma nova figura na história da humanidade, recebendo prêmios internacionais e sendo convidado de chefes de estado e autoridades.",
+        "Foi laureado com o Prêmio Nobel de Física de 1921 por suas contribuições à física teórica",
+        "Mais conhecido por sua fórmula de equivalência massa-energia, E=mc² — que foi chamada de a equação mais famosa do mundo",
+        "Desenvolveu a teoria da relatividade geral, um dos pilares da física moderna ao lado da mecânica quântica."
+      ]
+    },
+    {
+      "name": "Nikola Tesla",
+      "hints": [
+        "Foi um inventor nos campos da engenharia mecânica e electrotécnica",
+        "Era súdito do Império Austríaco por nascimento e mais tarde tornou-se um cidadão estadunidense.",
+        "É mais conhecido pelas suas muitas contribuições revolucionárias no campo do electromagnetismo no fim do século XIX e início do século XX.",
+        "Suas patentes e o seu trabalho teórico formam as bases dos modernos sistemas de potência eléctrica em corrente alternada (AC).",
+        "O nome de uma empresa automotiva é uma homenagem à ele."
+      ]
+    },
+    {
+      "name": "Charles Darwin",
+      "hints": [
+        "Foi um naturalista, geólogo e biólogo",
+        "Célebre por seus avanços sobre evolução nas ciências biológicas.",
+        "Seu livro de 1859, A Origem das Espécies, causou espanto na sociedade e comunidade científica da época, mas conseguiu grande aceitação nas décadas seguintes, superando a rejeição que os cientistas tinham pela transmutação de espécies.",
+        "Estabeleceu a ideia que todos os seres vivos descendem de um ancestral em comum, argumento agora amplamente aceito e considerado um conceito fundamental no meio científico",
+        "Propôs a teoria de que os ramos evolutivos são resultados de seleção natural e sexual"
+      ]
+    },
+    {
+      "name": "Benjamin Franklin",
+      "hints": [
+        "Foi um polímata.",
+        "Religioso, calvinista, e uma figura representativa do iluminismo.",
+        "Suas invenções de incluíram o pára-raios e um aquecedor a lenha que se tornou muito popular, debitando uma corrente de ar diretamente na área a aquecer.",
+        "Identificou as cargas positiva e negativa, e demonstrou que os raios são um fenómeno de natureza elétrica.",
+        "Tornou esta teoria inesquecível através da experiência extremamente perigosa de fazer voar uma pipa durante uma tempestade."
+      ]
+    },
+    {
+      "name": "Stephen Hawking",
+      "hints": [
+        "Foi um físico teórico e cosmólogo, reconhecido internacionalmente por sua contribuição à ciência, sendo um dos mais renomados cientistas do século.",
+        "Seus trabalhos científicos incluem um teorema sobre a singularidade gravitacional no âmbito da relatividade geral (em colaboração com Roger Penrose) e a previsão teórica de que os buracos negros emitem radiação.",
+        "Seu livro 'Uma Breve História do Tempo' permaneceu na lista de mais vendidos do The Sunday Times durante 237 semanas.",
+        "Em 1963, foi diagnosticado com uma forma de início precoce da doença neuronal motora que o paralisou gradualmente ao longo das décadas.",
+        "Mesmo após a perda de sua capacidade de falar, ele ainda era capaz de se comunicar por meio de um dispositivo gerador de fala, inicialmente através do uso de um interruptor de mão e, mais tarde, usando um único músculo da bochecha."
+      ]
+    },
+    {
+      "name": "Santos Dumont",
+      "hints": [
+        "Foi um aeronauta, esportista e inventor.",
+        "Uma das pessoas mais famosas do mundo durante o século XX.",
+        "Conquistou o Prêmio Deutsch em 1901, quando em um voo contornou a Torre Eiffel com o seu dirigível Nº 6.",
+        "Considerado como o responsável pelo primeiro voo num avião.",
+        "O 14-bis, também conhecido como Oiseau de Proie (francês para “ave de rapina”), foi um avião construído por ele."
+
+      ]
+    },
+    {
+      "name": "Alexander Graham Bell",
+      "hints": [
+        "Foi um cientista e inventor.",
+        "Foi um dos fundadores da National Geographic Society e em 7 de janeiro de 1898 assumiu a presidência da instituição.",
+        "Desenvolveu muitas outras invenções, entre elas a construção do hidrofólio e vários estudos de aeronáutica.",
+        "O seu pai, avô e irmão desenvolveram trabalho em fonologia e locução, o que influenciou profundamente o interesse de Alexander Bell pela investigação em som, e as suas experiências em aparelhos auriculares.",
+        "Considerado como o inventor do telefone."
+
+      ]
+    },
+    {
+      "name": "Alan Turing",
+      "hints": [
+        "Foi um matemático, lógico , criptoanalista, filósofo, e biólogo teórico inglês.",
+        "Durante a Segunda Guerra Mundial, trabalhou para a inteligência britânica em Bletchley Park, num centro especializado em quebra de códigos.",
+        "Planejou uma série de técnicas para quebrar os códigos alemães, incluindo o método da bomba eletromecânica, uma máquina eletromecânica que poderia encontrar definições para a máquina Enigma.",
+        "Foi influente no desenvolvimento da ciência da computação e na formalização do conceito de algoritmo, desempenhando um papel importante na criação do computador moderno.",
+        "É conhecido como o pai da computação."
+      ]
+    },
+    {
+      "name": "Neil Armstrong",
+      "hints": [
+        "Foi um engenheiro aeroespacial, aviador naval, piloto de teste, astronauta e professor",
+        "Estudou engenharia na Universidade Purdue; em 1949 tornou-se aspirante da Marinha dos Estados Unidos e, no ano seguinte, formou-se aviador naval.",
+        "Entrou para o corpo de astronautas da NASA em seu segundo grupo, selecionado em 1962.",
+        "Proferiu a famosa frase 'É um pequeno passo para [um] homem, um salto gigante para a humanidade'.",
+        "Tornou-se o primeiro homem a pisar na Lua em 1969."
+      ]
+    },
+    {
+      "name": "Karl Marx",
+      "hints": [
+        "Foi um filósofo, sociólogo, historiador, jornalista.",
+        "Nasceu numa família de classe média em Tréveris, na Renânia prussiana, e estudou nas universidades de Bonn e Berlim, onde se interessou pelas ideias filosóficas dos jovens hegelianos.",
+        "Elogiado e criticado, tem sido descrito como uma das figuras mais influentes na história da humanidade.",
+        "Estabeleceu a base para muito do entendimento atual sobre o trabalho e sua relação com o capital, além do pensamento econômico posterior.",
+        "Publicou vários livros durante sua vida, sendo O Manifesto Comunista (1848) e O Capital (1867-1894) os mais proeminentes."
+      ]
+    },
+    {
+      "name": "William Shakespeare",
+      "hints": [
+        "Foi um poeta, dramaturgo e ator.",
+        "Tido como o maior escritor do idioma inglês e o mais influente dramaturgo do mundo.",
+        "Começou uma carreira bem-sucedida em Londres como ator, escritor e um dos proprietários da companhia de teatro chamada Lord Chamberlain's Men, mais tarde conhecida como King's Men.",
+        "Escreveu apenas tragédias até por volta de 1608, incluindo Hamlet, Rei Lear e Macbeth, consideradas algumas das obras mais importantes na língua inglesa. Na sua última fase, escreveu um conjuntos de peças classificadas como tragicomédias ou romances, e colaborou com outros dramaturgos.",
+        "Escreveu a frase 'Ser ou não ser, eis a questão'"
+      ]
+    },
+    {
+      "name": "George Orwell",
+      "hints": [
+        "Foi um escritor, jornalista e ensaísta político.",
+        "Considerado talvez o melhor cronista da cultura inglesa do século XX, dedicou-se a escrever resenhas, ficção, artigos jornalísticos polémicos, crítica literária e poesia.",
+        "Sua obra é marcada por uma inteligência perspicaz e bem-humorada, uma consciência profunda das injustiças sociais, uma intensa oposição ao totalitarismo e uma paixão pela clareza da escrita.",
+        "Sua hostilidade ao Stalinismo e pela experiência do socialismo soviético, se revelou uma característica constante em sua obra.",
+        "Ele é mais conhecido pelo romance distópico Nineteen Eighty-Four, escrito em 1949, e pela novela satírica Animal Farm (1945)"
+      ]
+    },
+    {
+      "name": "J. R. R. Tolkien",
+      "hints": [
+        "Foi um premiado escritor, professor universitário e filólogo",
+        "Recebeu o título de doutor em Letras e Filologia pela Universidade de Liège e Dublin, em 1954",
+        "Em 28 de março de 1972, foi nomeado Comandante da Ordem do Império Britânico pela Rainha Elizabeth II.",
+        "O Silmarillion, sua maior paixão, postumamente publicada, que é considerada a sua principal obra, embora não a mais famosa.",
+        "Autor das obras como O Hobbit, O Senhor dos Anéis e O Silmarillion."
+      ]
+    },
+    {
+      "name": "Edgar Allan Poe",
+      "hints": [
+        "Foi um autor, poeta, editor e crítico literário.",
+        "Foi o primeiro escritor americano conhecido por tentar ganhar a vida através da escrita por si só, resultando em uma vida e carreira financeiramente difíceis.",
+        "Conhecido por suas histórias que envolvem o mistério e o macabro, foi um dos primeiros escritores norte-americanos de contos e é, geralmente, considerado o inventor do gênero ficção policial, também recebendo crédito por sua contribuição ao emergente gênero de ficção científica.",
+        "Suas obras mais conhecidas são góticas, um gênero que ele seguiu para satisfazer o gosto do público.",
+        "Seus temas mais recorrentes lidam com questões da morte, incluindo sinais físicos dela, os efeitos da decomposição, interesses por pessoas enterradas vivas, a reanimação dos mortos e o luto."
+      ]
+    },
+    {
+      "name": "Beethoven",
+      "hints": [
+        "Foi um compositor, do período de transição entre o Classicismo (século XVIII) e o Romantismo (século XIX)",
+        "Um dos compositores mais respeitados e mais influentes de todos os tempos.",
+        "Em 2 de Abril de 1800, a sua Sinfonia nº 1 em Dó maior, Op. 21 faz a sua estreia em Viena.",
+        "Compôs 9 sinfonias.",
+        "Foi-lhe diagnosticado, por volta de 1796, aos 26 anos de idade, a congestão dos centros auditivos internos."
+      ]
+    },
+    {
+      "name": "Mozart",
+      "hints": [
+        "Foi um prolífico e influente compositor do período clássico.",
+        "Foi autor de mais de seiscentas obras, muitas delas referenciais na música sinfônica, concertante, operística, coral, pianística e camerística.",
+        "Visto pela crítica especializada como um dos maiores compositores do ocidente, conseguiu conquistar grande prestígio mesmo entre os leigos, e sua imagem se tornou um ícone popular.",
+        "Sua produção foi louvada por todos os críticos de sua época, embora muitos a considerassem excessivamente complexa e difícil, e estendeu sua influência sobre vários outros compositores ao longo de todo o século XIX e início do século XX.",
+        "Começou a compor aos cinco anos de idade, e passou a se apresentar para a realeza europeia, maravilhando a todos com seu talento precoce."
+      ]
+    },
+    {
+      "name": "Jimi Hendrix",
+      "hints": [
+        "Foi um guitarrista, cantor e compositor.",
+        "Um dos mais influentes músicos de sua era, em diversos gêneros musicais.",
+        "Uma estrela na Calçada da Fama de Hollywood (Hollywood Boulevard, 6627) foi-lhe dedicada em 1994.",
+        "Conquistou diversos dos mais prestigiosos prêmios concedidos a artistas de rock durante sua vida, e recebeu diversos outros postumamente, incluindo sua confirmação no Hall da Fama do Rock and Roll americano",
+        "Em praticamente todas as listas já publicadas de melhores guitarristas da história, ocupa o primeiro lugar."
+      ]
+    },
+    {
+      "name": "Paul McCartney",
+      "hints": [
+        "É um cantor, compositor, multi-instrumentista, empresário, produtor musical, cinematográfico e ativista dos direitos dos animais.",
+        "Livro Guinness dos Recordes declarou-o como o compositor musical de maior sucesso da história da música pop mundial de todos os tempos.",
+        "Advoga em favor dos direitos dos animais, contra o uso de minas terrestres, a favor da comida vegetariana e a favor da educação musical.",
+        "O canhoto e baixista mais famoso da história do rock.",
+        "Alcançou fama mundial como membro da banda de rock britânica The Beatles."
+      ]
+    },
+    {
+      "name": "Michael Jackson",
+      "hints": [
+        "Foi um cantor, compositor, dançarino, filantropo e humanitário.",
+        "Um dos ícones culturais mais importantes e influentes de todos os tempos e um dos maiores artistas da história da música.",
+        "Um de deus álbums é o  mais vendido de todos os tempos, com vendas estimadas em 66 milhões de cópias em todo o mundo.",
+        "Se tornou uma figura de controversa por sua radical mudança de aparência, relacionamentos, comportamento e estilo de vida.",
+        "Apelidado de 'Rei do Pop'."
+      ]
+    },
+    {
+      "name": "Eric Clapton",
+      "hints": [
+        "É um guitarrista, cantor e compositor.",
+        "Apelidado de Slowhand.",
+        "Ficou conhecido por ser um exímio guitarrista e por vezes considerado um dos melhores de todos os tempos.",
+        "Sempre teve as suas raízes ligadas ao blues.",
+        "Tem várias canções listadas entre as mais populares de todos os tempos, tais como 'Layla', 'Wonderful Tonight' e a regravação de 'I Shot the Sheriff'."
+      ]
+    },
+    {
+      "name": "Stevie Wonder",
+      "hints": [
+        "É um cantor, compositor e ativista de causas humanitárias e sociais.",
+        "Um dos maiores músicos da contemporaneidade.",
+        "Gravou mais de trinta sucessos que alcançaram o top ten.",
+        "Ganhou vinte e cinco Grammy Awards, o maior número já ganho por um artista masculino na história.",
+        "Ao nascer foi-lhe dado o nome Stevland Hardaway Judkins, depois alterado para Stevland Hardaway Morris, já adulto."
+      ]
+    },
+    {
+      "name": "George Harrison",
+      "hints": [
+        "Foi um guitarrista, cantor, compositor, produtor musical e cinematográfico.",
+        "Aderiu ao hinduísmo e ajudou a ampliar os horizontes dos outros integrantes da banda na qual fazia parte assim como seu público ocidental ao incorporar instrumentos indianos na música do grupo.",
+        "A partir de 1965, a maioria dos álbuns de sua banda continham, pelo menos, duas composições suas.",
+        "Obteve fama internacional como guitarrista dos Beatles.",
+        "Geralmente chamado de 'o Beatle tranquilo'."
+      ]
+    },
+    {
+      "name": "Bob Marley",
+      "hints": [
+        "Foi um cantor, guitarrista e compositor.",
+        "Sua música foi fortemente influenciada pelas questões sociais e políticas de sua terra natal, fazendo com que considerassem-no a voz do povo negro, pobre e oprimido da Jamaica.",
+        "Dedicado a protestar contra problemas sociais, levou, através de sua música, o movimento rastafári e suas ideias de paz, irmandade, igualdade social, preservação ambiental, libertação, resistência, liberdade e amor universal ao mundo.",
+        "Foi eleito pela revista Rolling Stone o 11º maior artista da música de todos os tempos.",
+        "O mais conhecido músico de reggae de todos os tempos."
+      ]
+    },
+
+    {
+      "name": "Johnny Cash",
+      "hints": [
+        "Foi um cantor, compositor, escritor, diretor e ator.",
+        "Conhecido por seus fãs como 'Homem de Preto'.",
+        "Teve uma carreira que durou quase cinco décadas.",
+        "Considerado o 'rei da música country' e um ícone desse gênero.",
+        "Sua versão da música ‘Hurt’ foi a trilha sonora do teaser do filme Logan."
+      ]
+    },
+    {
+      "name": "David Bowie",
+      "hints": [
+        "Foi um cantor, compositor, ator e produtor musical.",
+        "Tem sido uma importante figura na música popular há cinco décadas e é considerado um dos músicos populares mais inovadores e ainda influentes de todos os tempos.",
+        "Por vezes referido como 'Camaleão do Rock' pela capacidade de sempre renovar sua imagem.",
+        "Auxiliou movimentos como a libertação gay e a recriação de uma nova juventude independente, introduziu novos modos de se vestir na cena musical e tem uma carreira prestigiada no cinema.",
+        "Só chamou a atenção do público em 1969, quando a canção 'Space Oddity' alcançou o quinto lugar no UK Singles Chart."
+      ]
+    },
+    {
+      "name": "John Lennon",
+      "hints": [
+        "Foi um cantor, compositor e ativista da paz",
+        "Em 2002, foi eleito o oitavo em uma pesquisa da BBC dos 100 maiores britânicos e, em 2008, a Rolling Stone o classificou como o quinto maior cantor de todos os tempos.",
+        "Era casado com Yoko Ono.",
+        "Sua parceria de composição com o colega de banda Paul McCartney foi uma das mais célebres da história da música.",
+        "Co-fundou os Beatles, a banda de maior sucesso comercial na história da música popular."
+      ]
+    },
+    {
+      "name": "Adele",
+      "hints": [
+        "É uma cantora, compositora e multi-instrumentista.",
+        "Começou a cantar aos quatro anos de idade e iniciou sua carreira artística em 2006",
+        "Foi descoberta por uma gravadora através de demos musicais postadas em seu perfil na rede social MySpace.",
+        "Recebeu menções no Guinness Book mais de dez vezes. Por ser a primeira mulher a ter ao mesmo tempo, dois singles e dois álbuns simultaneamente no top 5 das paradas britânicas.",
+        "Alcançou o auge da carreira ao lançar seu segundo álbum 21, com o qual superou diversos recordes."
+
+      ]
+    },
+    {
+      "name": "Amy Winehouse",
+      "hints": [
+        "Foi uma cantora e compositora",
+        "Conhecida por seu poderoso e profundo contralto vocal e por sua mistura eclética de gêneros musicais, incluindo soul, jazz, R&B e ritmos caribenhos, como o ska.",
+        "Apenas em 2006, com o lançamento do seu segundo álbum de estúdio, Back to Black, ganhou proeminência como uma artista.",
+        "No entanto, apesar de bem-sucedida, a sua carreira foi muitas vezes ofuscada por seus problemas pessoais.",
+        "o seu abuso de substâncias psicoativas e a constante perda de peso tornaram-se assuntos recorrentes nos tabloides e culminaram em seu afastamento da indústria fonográfica em 2008."
+      ]
+    },
+    {
+      "name": "Elvis Presley",
+      "hints": [
+        "Foi um cantor, músico e ator.",
+        "Tido como um dos mais significantes ícones culturais populares do século XX.",
+        "Suas interpretações energéticas das canções e seu estilo de performance sexualmente provocante, combinados com uma mistura singularmente potente de influências além da barreira da cor durante uma era transformadora nas relações raciais, fizeram-no enormemente popular—e controverso.",
+        "Seu primeiro single com a RCA, 'Heartbreak Hotel', foi lançado em janeiro de 1956 e se tornou um sucesso número um nos Estados Unidos.",
+        "Frequentemente chamado de o Rei do Rock, ou simplesmente 'O Rei'."
+      ]
+    },
+    {
+      "name": "Freddie Mercury",
+      "hints": [
+        "Foi um cantor, pianista e compositor",
+        "Tornou-se célebre pelo seu poderoso tom de voz e seus desempenhos energéticos que sempre envolviam a platéia, tendo sido considerado pela crítica como um dos maiores artistas de todos os tempos.",
+        "Já vendeu mais de 150 milhões de discos em todo o mundo",
+        "Faleceu vítima de broncopneumonia, acarretada pela AIDS, em 1991, um dia depois de ter assumido a doença publicamente.",
+        "Conhecido por seu trabalho com a banda britânica de rock Queen"
+      ]
+    },
+    {
+      "name": "Justin Bieber",
+      "hints": [
+        "É um cantor, compositor, e ator.",
+        "Vendeu cerca de 150 milhões de discos, sendo mais de 44 milhões nos EUA, tornando-o um dos artistas de música mais vendidos no mundo.",
+        "Assinou contrato com a Island Records, iniciando carreira profissional em 2009, após concluir o primeiro grau escolar.",
+        "Em 2007, seus vídeos de apresentações covers foram vistas no YouTube por Scooter Braun, que tornou seu agente.",
+        "Nasceu em 1º de março de 1994 no St Joseph's Hospital em London, província canadense de Ontário e três meses depois mudou-se para Stratford, também em Ontário."
+      ]
+    },
+     {
+      "name": "Ed Sheeran",
+      "hints": [
+        "É um cantor, compositor, produtor, e ator.",
+        "Participou da trilha sonora do filme O Hobbit: A Desolação de Smaug com a canção 'I See Fire'.",
+        "Sua popularidade no exterior se expandiu em 2012, nos Estados Unidos, ele fez uma aparição no quarto álbum de estúdio de Taylor Swift, e escreveu canções para o grupo One Direction.",
+        "Seus avós paternos eram irlandeses, de Maghera e North Wexford.",
+        "Seu álbum de estréia, + (plus) (2011), foi disco de platina quíntuplo no Reino Unido."
+      ]
+    },
+    {
+      "name": "Renato Russo",
+      "hints": [
+        "Foi um cantor, compositor, produtor e multi-instrumentista",
+        "A revista Rolling Stone promoveu a Lista dos Cem Maiores Artistas da Música Brasileira, em que ocupa o 25° lugar.",
+        "Adotou o sobrenome artístico em homenagem ao inglês Bertrand Russell, ao suíço Jean-Jacques Rousseau e ao francês Henri Rousseau.",
+        "Morreu devido as complicações causadas pelo HIV em 11 de outubro de 1996",
+        "Célebre por ter sido o vocalista e fundador da banda de rock Legião Urbana."
+      ]
+    },
+    {
+      "name": "Raul Seixas",
+      "hints": [
+        "Foi um cantor, compositor, produtor e multi-instrumentista",
+        "Frequentemente considerado um dos pioneiros do rock brasileiro",
+        "Sua obra musical é composta por dezessete discos lançados durante 26 anos de carreira.",
+        "Tinha um estilo musical que era chamado de 'contestador e místico'",
+        "Por vezes, é chamado de Pai do Rock Brasileiro e Maluco Beleza."
+      ]
+    },
+    {
+      "name": "Chorão",
+      "hints": [
+        "Foi um cantor, compositor, skatista, cineasta, roteirista e empresário",
+        "Lançou dez discos, que venderam mais de cinco milhões de cópias.",
+        "Teve uma infância e adolescência difícil, a sua mãe era doméstica, fazia pastéis, cozinhava fora para ele entregar.",
+        "Vivia na rua, ia mal na escola, parou de estudar na sétima série, e frequentemente tinha problemas com a polícia.",
+        "Foi o vocalista, principal letrista e co-fundador da banda santista Charlie Brown Jr"
+      ]
+    },
+    {
+      "name": "Van Gogh",
+      "hints": [
+        "Foi um pintor",
+        "Considerado uma das figuras mais famosas e influentes da história da arte ocidental",
+        "Suas obras abrangem paisagens, naturezas-mortas, retratos e autorretratos caracterizados por cores dramáticas e vibrantes, além de pinceladas impulsivas e expressivas que contribuíram para as fundações da arte moderna.",
+        "Não obteve sucesso durante sua vida, sendo considerado um louco e um fracassado.",
+        "Ficou famoso depois de seu suicídio, existindo na imaginação pública como a quintessência do gênio incompreendido, o artista 'onde discursos sobre loucura e criatividade convergem'."
+      ]
+    },
+    {
+      "name": "Leonardo da Vinci",
+      "hints": [
+        "Foi um polímata",
+        "Uma das figuras mais importantes do Alto Renascimento",
+        "É considerado um dos maiores pintores de todos os tempos e como possivelmente a pessoa dotada de talentos mais diversos a ter vivido.",
+        "Se destacou como cientista, matemático, engenheiro, inventor, anatomista, pintor, escultor, arquiteto, botânico, poeta e músico.",
+        "Duas de suas obras estão entre as pinturas mais famosas, mais reproduzidas e mais parodiadas de todos os tempos"
+
+      ]
+    },
+    {
+      "name": "Michelangelo",
+      "hints": [
+        "Foi um pintor, escultor, poeta e arquiteto, considerado um dos maiores criadores da história da arte do ocidente.",
+        "Desenvolveu o seu trabalho artístico por mais de setenta anos entre Florença e Roma",
+        "Ainda em vida foi considerado o maior artista de seu tempo",
+        "Sua carreira se desenvolveu na transição do Renascimento para o Maneirismo, e seu estilo sintetizou influências da arte da Antiguidade clássica, do primeiro Renascimento, dos ideais do Humanismo e do Neoplatonismo, centrado na representação da figura humana e em especial no nu masculino, que retratou com enorme pujança",
+        "Várias de suas criações estão entre as mais célebres da arte do ocidente, destacando-se na escultura o Baco, a Pietà, o David, as duas tumbas Medici e o Moisés; na pintura o vasto ciclo do teto da Capela Sistina e o Juízo Final no mesmo local"
+      ]
+    },
+    {
+      "name": "Pablo Picasso",
+      "hints": [
+        "Foi um pintor, escultor, ceramista, cenógrafo, poeta e dramaturgo.",
+        "Excepcionalmente prolífico durante a sua longa vida, conquistou renome universal e imensa fortuna graças às suas conquistas artísticas revolucionárias, tornando-se uma das mais conhecidas figuras da arte do século XX.",
+        "Considerado um dos três artistas que mais realizaram desenvolvimentos revolucionários nas artes plásticas nas décadas iniciais do século XX, responsável por importantes avanços na pintura, na escultura, na gravura e nas cerâmicas.",
+        "Conhecido como o co-fundador do cubismo.",
+        "Dentre as suas obras mais famosas estão os quadros cubistas As Meninas D’Avignon (1907) e Guernica (1937)."
+      ]
+    },
+    {
+      "name": "Rafael",
+      "hints": [
+        "Foi um mestre da pintura e da arquitetura da escola de Florença durante o Renascimento italiano",
+        "Celebrado pela perfeição e suavidade de suas obras",
+        "Seu pai, Giovanni Santi, pintor de poucos méritos mas homem culto e bem relacionado na corte do duque Federico da Montefeltro.",
+        "Um dos personagens de 'Tartarugas Ninja' foi nomeado em sua homenagem.",
+        "No programa é o bad boy da equipe, usa uma máscara vermelho-escura e empunha um par de Sai ."
+      ]
+    },
+    {
+      "name": "Salvador Dalí",
+      "hints": [
+        "Foi um importante pintor, conhecido pelo seu trabalho surrealista.",
+        "Seu trabalho chama a atenção pela incrível combinação de imagens bizarras, oníricas, com excelente qualidade plástica.",
+        "O seu trabalho mais conhecido, A Persistência da Memória, foi concluído em 1931.",
+        "Teve também trabalhos artísticos no cinema, escultura, e fotografia.",
+        "Os bandidos da série La Casa de Papel, usam máscaras suas."
+      ]
+    },
+    {
+      "name": "Edvard Munch",
+      "hints": [
+        "Foi um pintor expressionista que estudou na Escola de Artes e Ofícios de Oslo.",
+        "Um dos precursores do impressionismo e expressionismo alemão.",
+        "Com A Menina Doente (Das Kränke Mädchen, 1885) inicia uma temática que surgiria como uma linha de força em todo o seu caminho artístico.",
+        "Fez inúmeras variações sobre este último trabalho, assim como sobre outras obras, e os seus sentimentos sobre a doença e a morte, que tinham marcado a sua infância, assumem um significado mais vasto, transformados em imagens que deixavam transparecer a fragilidade e a transitoriedade da vida.",
+        "Aos trinta anos ele pinta 'O Grito', considerada a sua obra máxima, e uma das mais importantes da história do expressionismo."
+      ]
+    },
+    {
+      "name": "Frida Kahlo",
+      "hints": [
+        "Foi uma pintora.",
+        "Inspirada na cultura popular do país, ela empregou um estilo de arte popular ingênua para explorar questões de identidade, pós-colonialismo, gênero, classe e raça na sociedade mexicana.",
+        "No início dos anos 1990, ela se tornou não apenas uma figura reconhecida na história da arte, mas também considerada um ícone para Chicanos, o movimento feminista e o movimento LGBTQ.",
+        "Conhecida como a mestre dos autorretratos",
+        "Um ônibus, no qual viajava, chocou-se com um trem."
+      ]
+    },
+    {
+      "name": "Elon Musk",
+      "hints": [
+        "É um empreendedor, filantropo e visionário",
+        "Nasceu em 28 de junho de 1971, em Pretória, Transvaal, África do Sul.",
+        "Não só já demonstrou publicamente preocupações com a extinção da humanidade, como também propôs soluções, das quais algumas são o objetivo principal de suas empresas e já estão sendo feitas na prática.",
+        "CEO da montadora mais valiosa dos EUA",
+        "Uma de suas empresas, tornou-se a primeira empresa no mundo a vender um voo comercial à Lua"
+      ]
+    },
+    {
+      "name": "Warren Buffett",
+      "hints": [
+        "É um investidor e filantropo americano.",
+        "Constantemente citado na lista da Forbes das pessoas com maior capital do mundo.",
+        "Ocupou o primeiro lugar em 2008.",
+        "É o principal acionista, presidente do conselho e diretor executivo da Berkshire Hathaway.",
+        "Amplamente considerado o mais bem sucedido investidor do século XX e do mundo, é conhecido como o 'Oráculo de Omaha'."
+      ]
+    },
+    {
+      "name": "Steve Jobs",
+      "hints": [
+        "Foi um inventor, empresário e magnata no setor da informática.",
+        "Em parceria com Steve Wozniak e Mike Markkula, entre outros, desenvolveu e comercializou uma das primeiras linhas de computadores pessoais de sucesso.",
+        "Notabilizou-se por revolucionar seis indústrias: computadores pessoais, filmes de animação, música, telefones, tablets e publicações digitais.",
+        "Comprou da Lucasfilm um estúdio de computação gráfica.",
+        "Após perder uma disputa de poder com a mesa diretor, foi demitido da empresa que foi o co-fundador."
+      ]
+    },
+    {
+      "name": "Jeff Bezos",
+      "hints": [
+        "É um empresário estadunidense.",
+        "Fundou a empresa aeroespacial Blue Origin em 2000.",
+        "Conhecido por fundar, ser o presidente de uma importante e famosa empresa de comércio eletrônico dos Estados Unidos.",
+        "Atualmente, é a maior empresa online de vendas do mundo, bem como o maior fornecedor mundial de serviços de infraestrutura em nuvem.",
+        "Alcançou uma fortuna de mais de US$ 200 bilhões, conforme levantamento da revista Forbes, ele é o primeiro a alcançar esta marca desde que a revista começou monitorar bilionários, em 1982."
+      ]
+    },
+    {
+      "name": "Donald Trump",
+      "hints": [
+        "É um empresário e político",
+        "Durante sua carreira, construiu torres de escritório, hotéis, cassinos, campos de golfe e outras instalações com sua marca em todo o mundo.",
+        "Em 2016, a revista Forbes o listou como a 324.ª pessoa mais rica do mundo e a 113.ª nos Estados Unidos, com um patrimônio líquido de 4,5 bilhões de dólares",
+        "Fez breves aparições em filmes e séries de televisão",
+        "45.º presidente dos Estados Unidos."
+      ]
+    },
+    {
+      "name": "Walt Disney",
+      "hints": [
+        "Foi um produtor cinematográfico, cineasta, diretor, roteirista, dublador, animador, empreendedor, filantropo",
+        "Ao longo da sua vida foi um símbolo da indústria da animação e um ícone da cultura popular.",
+        "Pessoa que venceu o maior número de Óscars na história, sendo 22 prêmios da Academia e 59 indicações.",
+        "Cofundador de um dos maiores conglomerados de entretenimento do mundo.",
+        "Criador de personagens de desenho animado, como Mickey e Pato Donald."
+      ]
+    },
+    {
+      "name": "Bob Iger",
+      "hints": [
+        "É um executivo de negócios.",
+        "Atuou como presidente da ABC Television.",
+        "Foi nomeado presidente e COO da Disney em 2000.",
+        "Foi uma força motriz por trás do revigoramento do Walt Disney Animation Studios e da estratégia de lançamento de marca da produção de seu estúdio de cinema.",
+        "Durante seu mandato, a Disney ampliou a lista de propriedades intelectuais da empresa e sua presença em mercados internacionais; Iger supervisionou as aquisições da Pixar em 2006 por US $ 7,4 bilhões, da Marvel Entertainment em 2009 por US $ 4 bilhões, da Lucasfilm em 2012 por US $ 4,06 bilhões e da 21st Century Fox em 2019 por US $ 71,3 bilhões."
+      ]
+    },
+    {
+      "name": "Bill Gates",
+      "hints": [
+        "É um magnata, empresário, diretor executivo, investidor, filantropo.",
+        "Em 2000, junto com sua esposa Melinda, criou uma organização filantrópica que tem por principais objetivos promover a pesquisa sobre a AIDS e outras doenças que atingem, em maior parte, os países em desenvolvimento.",
+        "É um dos pioneiros na revolução do computador pessoal.",
+        "Ficou conhecido por fundar junto com Paul Allen, a maior e mais conhecida empresa de software do mundo em termos de valor de mercado.",
+        "Classificado regularmente como a pessoa mais rica do mundo, posição ocupada por ele de 1995 a 2007, 2009, e de 2014 a 2017."
+      ]
+    },
+    {
+      "name": "Mark Zuckerberg",
+      "hints": [
+        "É um programador e empresário.",
+        "Chegou a ser considerada a hipótese de ele sofrer algum grau de Síndrome de Asperger.",
+        "A revista Forbes o colocou na 36ª posição da lista das pessoas mais ricas do mundo.",
+        "Seu pai lhe ensinou Atari Programação Básica em 1990 e, posteriormente, contratou o desenvolvedor de software David Newman para lhe dar aulas particulares. Newman não hesitava em chamá-lo de 'prodígio', acrescentando que era 'duro para ficar à frente dele'.",
+        "Ficou conhecido internacionalmente por ser um dos fundadores da rede social mais acessada do mundo."
+      ]
+    },
+    {
+      "name": "Henry Ford",
+      "hints": [
+        "Foi um empreendedor e engenheiro mecânico.",
+        "Autor dos livros Minha filosofia de indústria e Minha vida e minha obra.",
+        "Foi um inventor prolífico e registrou 161 patentes nos Estados Unidos.",
+        "Fundador de uma fabricante de automóveis multinacional estadunidense sediada em Dearborn, Michigan, um subúrbio de Detroit.",
+        "O primeiro empresário a aplicar a montagem em série de forma a produzir em massa automóveis em menos tempo e a um menor custo."
+      ]
+    },
+    {
+      "name": "Oprah Winfrey",
+      "hints": [
+        "É uma apresentadora, jornalista, atriz, psicóloga, empresária, repórter, produtora, editora e escritora",
+        "É também uma influente crítica de livros, uma atriz indicada a um Oscar pelo filme A cor púrpura.",
+        "Foi a apresentadora mais bem paga da história da televisão estadunidense, ganhando cerca de 50 milhões de dólares por mês com todas as suas incumbências profissionais.",
+        "Foi eleita a mulher mais rica do ramo de entretenimento no mundo durante o século XX, uma das maiores filantropas de todos os tempos e a primeira mulher negra a ser incluída na lista de bilionários, em 2003.",
+        "Vencedora de múltiplos prêmios Emmy por seu programa, o talk show com maior audiência da história da televisão norte-americana."
+      ]
+    },
+    {
+      "name": "Tom Hanks",
+      "hints": [
+        "É um ator e cineasta.",
+        "Em 2012, seus filmes haviam totalizado mais de 4,2 bilhões de dólares nas bilheterias dos Estados Unidos, e em 2017, mais de 9 bilhões em todo o mundo, o que fez dele um dos atores mais bem-sucedidos de todos os tempos.",
+        "Já foi indicado e venceu diversos prêmios ao longo de sua carreira, incluindo sua vitória ao Oscar de Melhor Ator e um Globo de Ouro de Melhor Ator - Drama.",
+        "Voz do personagem Woody na série de filmes de animação Toy Story.",
+        "Estrelou o legendário filme Forrest Gump, que contava o crescimento de um jovem portador de debilidade mental de forma única, mesclando comédia e drama, e que mostrava uma visão do desenvolvimento da sociedade dos Estados Unidos nas últimas décadas sendo totalmente influenciado por Forrest."
+      ]
+    },
+    {
+      "name": "Clint Eastwood",
+      "hints": [
+        "É um ator, cineasta produtor.",
+        "Famoso pelos seus papéis típicos em filmes de ação como um cara durão e anti-herói.",
+        "Único ator da história do cinema a estrelar em filmes considerados de 'grande sucesso' por cinco décadas consecutivas.",
+        "Ganhou quatro vezes o Oscar — duas cada como Melhor Diretor e de Melhor Filme.",
+        "Um single de estreia da banda britânica virtual Gorillaz leva seu nome."
+      ]
+    },
+    {
+      "name": "Alan Rickman",
+      "hints": [
+        "Foi um premiado ator.",
+        "Nasceu no centro urbano de Hammersmith, em Londres.",
+        "Venceu um Globo de Ouro e um Emmy pelo seu desempenho como Rasputine em Rasputin: Dark Servant of Destiny de 1996 e foi nomeado para um Emmy pelo seu desempenho como Dr. Alfred Blalock no telefilme Something the Lord Made de 2004.",
+        "Ganhou reputação como um dos melhores atores a interpretar vilões em Hollywood.",
+        "Interpretou o papel do professor Severus Snape na saga Harry Potter."
+      ]
+    },
+    {
+      "name": "Christian Bale",
+      "hints": [
+        "É um premiado ator.",
+        "Nasceu em Haverfordwest, uma pequena cidade de Pembrokeshire, no País de Gales",
+        "Venceu Oscar de Melhor Ator Coadjuvante, o Globo de Ouro de Melhor Ator Coadjuvante e o SAG Award de Melhor Ator Coadjuvante.",
+        "Começou a chamar a atenção após sua atuação no filme Empire of the Sun, de Steven Spielberg, quando tinha treze anos.",
+        "Porém, ganhou reconhecimento internacional por viver Bruce Wayne / Batman em Batman Begins, The Dark Knight e The Dark Knight Rises."
+      ]
+    },
+    {
+      "name": "Samuel Jackson",
+      "hints": [
+        "É um ator e produtor.",
+        "Embora tendo nascido na capital americana, cresceu como filho único em Chattanooga, no Tennessee.",
+        "Alcançou a fama no início da década de 1990.",
+        "Ator mais prolífico da história do cinema, com os filmes que participou lucrando, no total, mais de US$ 7,1 bilhões de dólares nos Estados Unidos.",
+        "Especialmente conhecido por seus papéis nos filmes Pulp Fiction (1994), Jackie Brown (1997), Django Unchained (2012) e The Hateful Eight (2015) de Quentin Tarantino."
+      ]
+    },
+    {
+      "name": "Harrison Ford",
+      "hints": [
+        "É um ator, piloto e ativista ambiental.",
+        "Em 2019 , as bilheterias domésticas dos EUA com seus filmes totalizaram mais de US $ 5,1  bilhões, com receitas mundiais ultrapassando US $ 9,3  bilhões, colocando-o em quarto lugar na lista das estrelas de maior bilheteria de todos os tempos.",
+        "Além de seu sucesso de bilheteria, ele também foi indicado ao Oscar, quatro vezes ao Globo de Ouro , duas vezes vencedor do Saturn Award e recebeu o AFI Life Achievement Award e o Cecil B. DeMille Prêmio .",
+        "Sua carreira se estende por seis décadas e inclui colaborações com alguns dos cineastas mais aclamados e influentes de todos os tempos, como George Lucas , Francis Ford Coppola , Steven Spielberg ,Ridley Scott , Peter Weir e Mike Nichols .",
+        "Ganhou fama mundial por seu papel de protagonista como Han Solo no épico filme de ópera espacial Star Wars."
+      ]
+    },
+    {
+      "name": "Anthony Hopkins",
+      "hints": [
+        "É um ator.",
+        "Considerado como um dos maiores atores em atividade.",
+        "Nascido e criado no País de Gales, manteve a sua cidadania britânica, adquirindo também a cidadania americana em 12 de abril de 2000.",
+        "Recebeu uma estrela na Calçada da Fama de Hollywood em 2003.",
+        "O personagem que desempenhou em 'O Silêncio dos Inocentes', o canibal Dr. Hannibal Lecter, foi classificado como o maior vilão da história do cinema pelo American Film Institute."
+      ]
+    },
+    {
+      "name": "Charlie Chaplin",
+      "hints": [
+        "Foi um ator, diretor, compositor, roteirista, produtor e editor.",
+        "Sua carreira no ramo do entretenimento durou mais de 75 anos.",
+        "Bastante conhecido pelos seus filmes O Imigrante, O Garoto, Em Busca do Ouro (este considerado por ele seu melhor filme), O Circo, Luzes da Cidade, Tempos Modernos, O Grande Ditador, Luzes da Ribalta, Um Rei em Nova Iorque e A Condessa de Hong Kong.",
+        "Considerado por alguns críticos o maior artista cinematográfico de todos os tempos, e um dos 'pais do cinema', junto com os Irmãos Lumière, Georges Méliès e D.W. Griffith.",
+        "Foi um dos atores da era do cinema mudo, notabilizado pelo uso de mímica e da comédia pastelão."
+      ]
+    },
+    {
+      "name": "Super-Homem",
+      "hints": [
+        "Já foi adaptado para diversos outros meios desde os anos 1930, como cinema, rádio, televisão, literatura e Video game.",
+        "Criado pela dupla de autores de quadrinhos Joe Shuster e Jerry Siegel.",
+        "Sua primeira aparição foi apresentada na revista Action Comics #1 em 1938, nos Estados Unidos.",
+        "Nasceu no planeta fictício de Krypton e tinha o nome de Kal-El.",
+        "Quando não está com o tradicional uniforme azul e vermelho, ele vive como Clark Kent, repórter profissional/jornalista no Planeta Diário, junto com Lois Lane e Jimmy Olsen."
+      ]
+    },
+    {
+      "name": "Batman",
+      "hints": [
+        "Criado pelo escritor Bill Finger e pelo artista Bob Kane.",
+        "Apareceu pela primeira vez na revista Detective Comics #27 (Maio de 1939).",
+        "É um bilionário americano, playboy, magnata de negócios, filantropo.",
+        "Depois de testemunhar o assassinato dos seus pais enquanto criança, jurou vingança contra os criminosos, um juramento moderado por um sentido de justiça.",
+        "Treina então física e intelectualmente, e cria uma persona inspirada no morcego para combater o crime."
+      ]
+    },
+    {
+      "name": "Robin",
+      "hints": [
+        "Criado por Bob Kane e Bill Finger, em conjunto com Jerry Robinson.",
+        "Sua primeira aparição foi em 1940, na edição 38 da revista Detective Comics.",
+        "Crê-se que seu nome seria uma homenagem de Kane e Finger ao jovem arte-finalista Jerry Robinson, o parceiro mirim de ambos na vida real.",
+        "Foi o primeiro exemplo de sidekick nas histórias em quadrinhos, isto é, a ideia de um parceiro infantil para um super-herói adulto, objetivando aproximar o público infantil de leitores do personagem principal.",
+        "Foi criado para trazer um personagem alegre e colorido às histórias escuras e sombrias do Batman."
+      ]
+    },
+    {
+      "name": "Flash",
+      "hints": [
+        "Criado pelo escritor Gardner Fox e pelo artista Harry Lampert",
+        "Cada uma de suas versões foi um membro chave ou da Sociedade da Justiça da América ou da Liga da Justiça",
+        "Também chamado de velocista escarlate.",
+        "Até então, quatro diferentes personagens, cada qual de algum modo ganhou o poder da super-velocidade, assumiram a identidade de Flash: Jay Garrick (1940-1956), Barry Allen (1956-1986, 2008-), Wally West (1986-2006, 2007-) Bart Allen (2006-2007).",
+        "Possui super-velocidade, consegue mover-se a uma velocidade sobre-humana, usar reflexos sobre-humanos e violar certas Leis da física, podendo até mesmo ultrapassar a velocidade da luz."
+      ]
+    },
+    {
+      "name": "Lanterna Verde",
+      "hints": [
+        "Criado por Martin Nodell e Bill Finger",
+        "Estreou em All-American Comics nº16 (1940)",
+        "Era um personagem de super-herói relativamente genérico até que em 1970 a DC resolveu emparelhá-lo com o Arqueiro Verde , em uma série de quadrinhos absolutamente inovadora e de cunho social.",
+        "Sua identidade da Era de Prata, era a de , membro fundador da Liga da Justiça da América.",
+        "Seu anel foi considerado a arma mais poderosa da galáxia, criando objetos plasmados complexos de acordo com a mente de seu portador."
+      ]
+    },
+    {
+      "name": "Mulher-Maravilha",
+      "hints": [
+        "Escrita pelo psicologo-escritor William Moulton Marston",
+        "Sua primeira aventura foi na revista All Star Comics #8 de dezembro de 1941, nos Estados Unidos",
+        "Terra Natal: Themyscira, a Ilha Paraíso",
+        "Se tornou um sinônimo de mulher poderosa e uma das mais poderosas defensoras da paz e da igualdade",
+        "Possui habilidades super-humanas e seu laço da verdade e os braceletes da vitória."
+      ]
+    },
+    {
+      "name": "Caçador de Marte",
+      "hints": [
+        "Apareceu pela primeira vez na história 'The Strange Experiment of Dr. Erdel' em Detective Comics #225 (Novembro de 1955)",
+        "Escrita por Jack Miller e ilustrada por Joe Cert.a",
+        "J'onn J'onzz é um nativo de Marte, também conhecido como Ma'aleca'andra em sua língua nativa",
+        "No Brasil, durante muitos anos o personagem foi chamado de Ajax, o marciano.",
+        "Em sua versão original, ou seja, o corpo que veio à Terra, e sua forma verdadeira, ele possui um corpo alto e magro. Sua cabeça é pontuda e fina com olhos vermelhos e pele verde."
+      ]
+    },
+    {
+      "name": "Aquaman",
+      "hints": [
+        "Criado por Paul Norris e Mort Weisinger",
+        "O personagem estreou na revista More Fun Comics #73",
+        "Inicialmente um herói secundário em títulos da antologia, Aquaman depois estrelou em vários volumes como herói principal.",
+        "Jason Momoa interpretou o personagem no filme Liga da Justiça (2017) e retoma o papel no filme solo, de 2018.",
+        "Coroado rei de Atlântida"
+      ]
+    },
+    {
+      "name": "Arqueiro Verde",
+      "hints": [
+        "Criado por Mort Weisinger e George Papp.",
+        "Apareceu pela primeira vez na More Fun Comics nº 73.",
+        "Inspirado em Robin Hood",
+        "Era um bilionário, mentor de um jovem ajudante Ricardito (ou Speedy no original) e protegia a cidade fictícia Star City.",
+        "Usava flechas com várias funções especiais, como flecha-cola, flecha-luva-de-boxe, flecha-de-rede e outras coisas do tipo."
+      ]
+    },
+    {
+      "name": "Cyborg",
+      "hints": [
+        "Foi criado pelo escritor Marv Wolfman e pelo artista George Pérez",
+        "Foi estabelecido como um membro fundador da Liga da Justiça na reinicialização de 2011 de seus títulos de quadrinhos.",
+        "Originalmente conhecido como membro dos Teen Titans",
+        "Era um jovem atleta, um jogador de futebol americano do time do colegial, além de também ser bastante inteligente, com um Q.I. de 170 pontos.",
+        "A caixa-materna, um artefato alienígena descoberto por Superman e atual objeto de pesquisa do laboratório, explode, destruindo grande parte do corpo de seu corpo."
+      ]
+    },
+    {
+      "name": "Shazam",
+      "hints": [
+        "Criado pela extinta Fawcett Comics",
+        "Seu nome é uma contração da palavra inglesa “Marvelous” (Maravilhoso, em português)",
+        "Após 71 anos deixa seu nome de origem, Capitão Marvel, assumindo o nome do mago na fase Os Novos 52, algo que permanece até os dias atuais na fase Renascimento.",
+        "Alter ego de uma criança, Billy Batson.",
+        "Transformava no herói gritando Shazam!"
+      ]
+    },
+    {
+      "name": "Barbara Gordon",
+      "hints": [
+        "Doutorada em biblioteconomia",
+        "Uma hacker extremamente bem informada",
+        "Veio a ficar paraplégica e interrompendo sua carreira",
+        "Assumiu uma função mais tecnológica com o codinome Oráculo",
+        "Filha do Comissário Gordon"
+      ]
+    },
+    {
+      "name": "Coringa",
+      "hints": [
+        "Um dos mais icónicos e reconhecidos personagens da cultura popular.",
+        "Durante as décadas em que tem aparecido, existem várias histórias sobre a sua origem.",
+        "A mais comum delas, envolve a sua queda para dentro de um tanque de desperdícios químicos que branqueia a sua pele, torna o seu cabelo verde e os seus lábios vermelhos",
+        "O personagem não tem habilidades sobre-humanas, mas usa a sua inteligência para desenvolver misturas tóxicas e/ou letais, bem como armamentos temáticos, incluindo cartas de jogo com pontas cortantes, campainhas de brinquedo mortais e flores de lapela que projetam ácido.",
+        "O resultado da sua desfiguração leva-o à loucura e adotou seu nome, a partir da figura das cartas de jogo que ele veio a assemelhar-se."
+      ]
+    },
+    {
+      "name": "Lex Luthor",
+      "hints": [
+        "É um poderoso bilionário corrupto, magnata, cientista, inventor, filantropo.",
+        "Uma das pessoas mais inteligentes do mundo.",
+        "Uma figura pública carismática e bem conhecida",
+        "Ele usa periodicamente seu traje de guerra, uma armadura de batalha de alta tecnologia dando-lhe maior resistência, voo, armamento avançado, entre outras capacidades.",
+        "Tem a intenção de livrar o mundo do super-herói alienígena Superman, que vê como um obstáculo aos seus planos megalomaníacos e como uma ameaça à própria existência da humanidade."
+      ]
+    },
+    {
+      "name": "Ra's al Ghul",
+      "hints": [
+        "Foi criado por Dennis O'Neil e Neal Adams.",
+        "Possui o conhecimento e a experiência de alguém que viveu séculos.",
+        "Detém grande riqueza, alta tecnologia, seguidores fanáticos dispostos a morrer em nome dele",
+        "Tem um grupo de assassinos de elite chamada Liga dos Assassinos.",
+        "Sua arma mais marcante é o Poço de Lázaro, uma mistura química de poções, venenos tóxicos e místicos que, juntos, podem curar o mais doente ou ferido corpo que nela se banhe, ou mesmo ressuscitar corpos já mortos."
+      ]
+    },
+    {
+      "name": "Brainiac",
+      "hints": [
+        "Tipicamente descrito como um ciborgue ou androide extraterrestre.",
+        "Responsável por encolher e roubar a Kandor",
+        "Em algumas continuidades, ele também é responsável pela destruição de Krypton.",
+        "Ele é careca, com um conjunto de objetos parecidos com eletrodos (às vezes brilhando) que se projetam de seu crânio.",
+        "Seu nome é uma junção das palavras em inglês 'cérebro' (brain) e 'maníaco' (maniac)."
+      ]
+    },
+    {
+      "name": "Capitão frio",
+      "hints": [
+        "Ele é o líder dos Rogues , uma associação criminosa solta, assim como o irmão mais velho de Golden Glider .",
+        "O personagem foi substancialmente adaptado dos quadrinhos para várias formas de mídia, incluindo séries de televisão e videogames.",
+        "Um adversário de vários super-heróis",
+        "Serviu como um dos arquiinimigos de Barry Allen , adversário e aliado relutante de Wally West , e um dos assassinos de Bart Allen .",
+        "Foi criado por um pai abusivo e refugiou-se com seu avô, que trabalhava em um caminhão de gelo."
+      ]
+    },
+    {
+      "name": "Arlequina",
+      "hints": [
+        "Ela foi criada por Paul Dini e Bruce Timm para a série animada de televisão Batman: A Série Animada",
+        "Pertence à trindade das mais icônicas personagens femininas do universo de Gotham City",
+        "Ela é descrita como uma anti-heroína",
+        "Estreou nos cinemas em 2016, no filme Esquadrão Suicida, sendo interpretada pela atriz Margot Robbie.",
+        "Frequentemente cúmplice e companheira amorosa do vilão Coringa, o qual ela conheceu enquanto trabalhava como psiquiatra no Asilo Arkham, onde o Coringa era paciente."
+      ]
+    },
+    {
+      "name": "Thor",
+      "hints": [
+        "Criado por Stan Lee, Larry Lieber e Jack Kirby.",
+        "Estreando na Era de Prata dos quadrinhos, o personagem apareceu pela primeira vez em Journey into Mystery #83 (agosto de 1962).",
+        "Chris Hemsworth o interpreta nos filmes.",
+        "Príncipe de um outro mundo existente numa dimensão acima de Midgard, a Terra.",
+        "Odin criou para ele a mais fiel e poderosa arma possível, o martelo Mjolnir."
+      ]
+    },
+    {
+      "name": "Homem-Aranha",
+      "hints": [
+        "É um fotografo independente (freelancer).",
+        "Narceu em 10 de agosto de 1990, Forest Hills, Queens, Nova Iorque.",
+        "Enquanto adolescente, tem de lidar com as lutas diárias normais da sua idade.",
+        "Um órfão, que foi educado e criado por sua tia e tio.",
+        "Ele teve que aprender que 'com grande poder vem sempre uma grande responsabilidade', frase atribuída retroativamente ao seu Tio Ben."
+      ]
+    },
+    {
+      "name": "Deadpool",
+      "hints": [
+        "Foi criado por Rob Liefeld e Fabian Nicieza.",
+        "Foi inspirado no vilão da DC Comics Exterminador (Deathstroke).",
+        "Tem o fator de cura que o faz sobreviver aos piores ferimentos.",
+        "Produto do Projeto Arma X, do governo canadense, embora seu local de nascimento seja desconhecido, pois esconderam-no do mundo.",
+        "Conhecido por sua capacidade de destruição, humor extremamente ácido, referências satíricas culturais e ocasionalmente a quebra da Quarta parede, se comunicando diretamente com o leitor."
+      ]
+    },
+    {
+      "name": "Homem de Ferro",
+      "hints": [
+        "Um cientista e engenheiro de grande talento desde a adolescência.",
+        "Teve uma relação difícil com seu pai, sendo enviado para um internato aos seis anos de idade, onde ele iria em breve começar a experimentar a convivência com mais pessoas.",
+        "Juntou-se então ao programa de graduação no MIT com 15 anos de idade, onde se formou em física e engenharia elétrica.",
+        "Durante a guerra do Vietnã, foi vítima de uma explosão de granada.",
+        "Criou armas e tecnologia avançada que foi usada com objetivos militares por seu país."
+      ]
+    },
+    {
+      "name": "Hulk",
+      "hints": [
+        "Um personagem de quadrinhos/banda desenhada do gênero super-herói.",
+        "Apesar de fugir de diversos padrões pré-estabelecidos para super-heróis enquanto personagem da cultura pop mundial, é considerado um super-herói, mais pelas características sobre-humanas por ele apresentadas do que por conceitos bases de inserção no gênero.",
+        "Um dos mais visualmente reconhecíveis da mesma, tendo o universo entorno do personagem se expandido continuadamente ao longo das últimas décadas.",
+        "Um cientista que foi atingido por raios gama.",
+        "Selvagem e poderoso alter ego do Dr. Robert Bruce Banner."
+      ]
+    },
+    {
+      "name": "Doutor Estranho",
+      "hints": [
+        "Foi criado durante a Era de Prata das histórias em quadrinhos americanas para trazer um tipo diferente de personagem e temas de misticismo",
+        "Sofreu um acidente de carro que danificou severamente suas mãos e dificulta sua capacidade de realizar uma cirurgia.",
+        "Foi um brilhante e egoísta neurocirurgião dotado com um coeficiente intelectual (QI) próximos aos 177 pontos.",
+        "Serve como o Mago Supremo, o principal protetor da Terra contra ameaças mágicas e místicas.",
+        "Além de conhecer muitos feitiços poderosos, ele tem uma roupa com dois objetos místicos - o Manto da Levitação e o Olho de Agamotto - que lhe dão poderes adicionais."
+      ]
+    }
+
+
+
+
+  ]
+}

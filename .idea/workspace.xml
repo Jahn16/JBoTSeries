@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:heroku" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7606d7c5-871b-4eaf-b47e-e7568d2beddc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/games/guess_drawing/english_to_portuguese.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/games/werewolf/action.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/games/werewolf/game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/games/werewolf/missing_participants_error.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/games/werewolf/player.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/games/werewolf/roles/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/games/werewolf/roles/avenger.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/games/werewolf/roles/doctor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/games/werewolf/roles/gunner.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/games/werewolf/roles/jailer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/games/werewolf/roles/seer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/games/werewolf/roles/villager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/games/werewolf/roles/werewolf.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/games/werewolf/roles/witch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/games/werewolf/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/JboTSeries.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/JboTSeries.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipfile" beforeDir="false" afterPath="$PROJECT_DIR$/Pipfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipfile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/discord_files/bot.py" beforeDir="false" afterPath="$PROJECT_DIR$/discord_files/bot.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/discord_files/cogs/games_commands.py" beforeDir="false" afterPath="$PROJECT_DIR$/discord_files/cogs/games_commands.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/discord_files/cogs/misc_commands.py" beforeDir="false" afterPath="$PROJECT_DIR$/discord_files/cogs/misc_commands.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/games/guess_drawing/frame.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/games/guess_drawing/frame.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/games/guess_drawing/guess_drawing.py" beforeDir="false" afterPath="$PROJECT_DIR$/games/guess_drawing/guess_drawing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/games/music_quiz/audios/text" beforeDir="false" afterPath="$PROJECT_DIR$/games/werewolf/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/games/music_quiz/music_quiz.py" beforeDir="false" afterPath="$PROJECT_DIR$/games/music_quiz/music_quiz.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/games/music_quiz/songs_br.txt" beforeDir="false" afterPath="$PROJECT_DIR$/games/music_quiz/songs.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/games/music_quiz/songs_usa.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/games/perfil/characters.json" beforeDir="false" afterPath="$PROJECT_DIR$/games/perfil/characters.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/games/perfil/perfil.py" beforeDir="false" afterPath="$PROJECT_DIR$/games/perfil/perfil.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/games/tournament/image_processing/image_drawer.py" beforeDir="false" afterPath="$PROJECT_DIR$/games/tournament/image_processing/image_drawer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/games/tournament/image_processing/imgs/ready_bracket.webp" beforeDir="false" afterPath="$PROJECT_DIR$/games/tournament/image_processing/imgs/ready_bracket.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/games/tournament/match.py" beforeDir="false" afterPath="$PROJECT_DIR$/games/tournament/match.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/games/tournament/tournament.py" beforeDir="false" afterPath="$PROJECT_DIR$/games/tournament/tournament.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/games/trivia/player.py" beforeDir="false" afterPath="$PROJECT_DIR$/games/trivia/player.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/games/trivia/questions.json" beforeDir="false" afterPath="$PROJECT_DIR$/games/trivia/questions.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/games/trivia/trivia.py" beforeDir="false" afterPath="$PROJECT_DIR$/games/trivia/trivia.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/games/typeracer/texts.json" beforeDir="false" afterPath="$PROJECT_DIR$/games/typeracer/texts.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/games/typeracer/typeracer.py" beforeDir="false" afterPath="$PROJECT_DIR$/games/typeracer/typeracer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/games/uno/uno_game.py" beforeDir="false" afterPath="$PROJECT_DIR$/games/uno/uno_game.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webscrap/meme_scraper.py" beforeDir="false" afterPath="$PROJECT_DIR$/webscrap/meme_scraper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webscrap/webdriver/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/webscrap/webdriver/chromedriver.exe" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1dMOZfFd6nZOdo60pRTRbQQtCA1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ScrimPlanetBot" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\JboTSeries\games\werewolf" />
+      <recent name="C:\JboTSeries\games\music_quiz" />
+      <recent name="C:\JboTSeries\games\perfil" />
+      <recent name="C:\JboTSeries\games\guess_drawing" />
+      <recent name="C:\JboTSeries\games\tournament" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\JboTSeries\games" />
+      <recent name="C:\JboTSeries\games\tournament\image_processing\imgs" />
+      <recent name="C:\JboTSeries\games\typeracer" />
+      <recent name="C:\JboTSeries\webscrap\webdriver" />
+      <recent name="C:\JboTSeries\webscrap" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.bot (1)">
+    <configuration name="bot (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="JboTSeries" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/discord_files" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/discord_files/bot.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="game" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="JboTSeries" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/games/werewolf" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/games/werewolf/game.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="guess_drawing" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="JboTSeries" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/games/guess_drawing" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/games/guess_drawing/guess_drawing.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="music_quiz" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="JboTSeries" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/games/music_quiz" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/games/music_quiz/music_quiz.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="scratch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="JboTSeries" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.bot (1)" />
+        <item itemvalue="Python.music_quiz" />
+        <item itemvalue="Python.scratch" />
+        <item itemvalue="Python.guess_drawing" />
+        <item itemvalue="Python.game" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7606d7c5-871b-4eaf-b47e-e7568d2beddc" name="Default Changelist" comment="" />
+      <created>1592231552650</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592231552650</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="735" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1617827423810">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="735" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1617827423810" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1610539656173">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1610539656173" />
+    <state width="938" height="274" key="GridCell.Tab.0.bottom" timestamp="1618680880853">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="274" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1618680880853" />
+    <state width="938" height="274" key="GridCell.Tab.0.center" timestamp="1618680880852">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="274" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1618680880852" />
+    <state width="938" height="274" key="GridCell.Tab.0.left" timestamp="1618680880851">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="274" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1618680880851" />
+    <state width="938" height="274" key="GridCell.Tab.0.right" timestamp="1618680880852">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="274" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1618680880852" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="self.player_one.get_points()" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

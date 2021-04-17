@@ -1,0 +1,1212 @@
+{
+  "questions": [
+    {
+      "question":  "Normalmente, quantos litros de sangue uma pessoa tem? Em média, quantos são retirados numa doação de sangue?",
+      "choices": "a) Tem entre 2 a 4 litros. São retirados 450 mililitros\nb) Tem entre 4 a 6 litros. São retirados 450 mililitros\nc) Tem 10 litros. São retirados 2 litros\nd) Tem 7 litros. São retirados 1,5 litros\ne) Tem 0,5 litros. São retirados 0,5 litros\n\n",
+      "answer": "b"
+    },
+    {
+      "question": "De quem é a famosa frase 'Penso, logo existo'?",
+      "choices":  "a) Platão\nb) Galileu Galilei\nc) Descartes\nd) Sócrates\ne) Francis Bacon",
+      "answer": "c"
+    },
+    {
+      "question":  "De onde é a invenção do chuveiro elétrico?",
+      "choices": "a) França\nb) Inglaterra\nc) Brasil\nd) Austrália\ne) Itália",
+      "answer": "c"
+    },
+    {
+      "question": "Qual o nome do presidente do Brasil que ficou conhecido como Jango?",
+      "choices": "a) Jânio Quadros\nb) Jacinto Anjos\nc) Getúlio Vargas\nd) João Figueiredo\ne) João Goulart\n\n",
+      "answer": "e"
+    },
+    {
+      "question": "Quais o menor e o maior país do mundo?",
+      "choices": "a) Vaticano e Rússia\nb) Nauru e China\nc) Mônaco e Canadá\nd) Malta e Estados Unidos\ne) São Marino e Índia\n\n",
+      "answer": "a"
+    },
+    {
+      "question": "Qual o grupo em que todas as palavras foram escritas corretamente?",
+      "choices": "a) Asterístico, beneficiente, meteorologia, entertido\nb) Asterisco, beneficente, meteorologia, entretido\nc) Asterisco, beneficente, metereologia, entretido\nd) Asterístico, beneficiente, metereologia, entretido\ne) Asterisco, beneficiente, metereologia, entretido",
+      "answer": "b"
+    },
+    {
+      "question": "Qual o livro mais vendido no mundo a seguir à Bíblia?",
+      "choices": "a) O Senhor dos Anéis\nb) Dom Quixote\nc) O Pequeno Príncipe\nd) Ela, a Feiticeira\ne) Um Conto de Duas Cidades",
+      "answer": "b"
+    },
+    {
+      "question": "Quantas casas decimais tem o número pi?",
+      "choices": "a) Duas\nb) Centenas\nc) Infinitas\nd) Vinte\ne) Milhares",
+      "answer": "c"
+    },
+    {
+      "question": "Atualmente, quantos elementos químicos a tabela periódica possui?",
+      "choices": "a) 113\nb) 109\nc) 108\nd) 118\ne) 92",
+      "answer": "d"
+    },
+    {
+      "question": "Quais os países que têm a maior e a menor expectativa de vida do mundo?",
+      "choices": "a) Japão e Serra Leoa\nb) Austrália e Afeganistão\nc) Itália e Chade\nd) Brasil e Congo\ne) Estados Unidos e Angola",
+      "answer": "a"
+    },
+    {
+      "question": "O que a palavra legend significa em português?",
+      "choices": "a) Legenda\nb) Conto\nc) História\nd) Lenda\ne) Legendário\n\n",
+      "answer": "d"
+    },
+    {
+      "question": "Qual o número mínimo de jogadores numa partida de futebol?",
+      "choices": "a) 8\nb) 10\nc) 9\nd) 5\ne) 7",
+      "answer": "e"
+    },
+    {
+      "question": "Quais os principais autores do Barroco no Brasil?",
+      "choices": "a) Gregório de Matos, Bento Teixeira e Manuel Botelho de Oliveira\nb) Miguel de Cervantes, Gregório de Matos e Danthe Alighieri\nc) Padre Antônio Vieira, Padre Manuel de Melo e Gregório de Matos\nd) Castro Alves, Bento Teixeira e Manuel Botelho de Oliveira\ne) Álvares de Azevedo, Gregório de Matos e Bento Teixeira",
+      "answer": "a"
+    },
+    {
+      "question": "Quais as duas datas que são comemoradas em novembro?",
+      "choices": "a) Independência do Brasil e Dia da Bandeira\nb) Proclamação da República e Dia Nacional da Consciência Negra\nc) Dia do Médico e Dia de São Lucas\nd) Dia de Finados e Dia Nacional do Livro\ne) Black Friday e Dia da Árvore",
+      "answer": "b"
+    },
+    {
+      "question": "Quem pintou 'Guernica''?",
+      "choices": "a) Paul Cézanne\nb) Pablo Picasso\nc) Diego Rivera\nd) Tarsila do Amaral\ne) Salvador Dalí\n\n",
+      "answer": "b"
+    },
+    {
+      "question": "Quanto tempo a luz do Sol demora para chegar à Terra?",
+      "choices": "a) 12 minutos\nb) 1 dia\nc) 12 horas\nd) 8 minutos\ne) segundos",
+      "answer": "d"
+    },
+    {
+      "question": "Qual a tradução da frase “Fabiano cogió su saco antes de salir”?",
+      "choices": "a) Fabiano coseu seu paletó antes de sair\nb) Fabiano fechou o saco antes de sair\nc) Fabiano pegou seu paletó antes de sair\nd) Fabiano cortou o saco antes de cair\ne) Fabiano rasgou seu paletó antes de cair",
+      "answer": "c"
+    },
+    {
+      "question": "Qual a nacionalidade de Che Guevara?",
+      "choices": "a) Cubana\nb) Peruana\nc) Panamenha\nd) Boliviana\ne) Argentina\n\n",
+      "answer": "e"
+    },
+    {
+      "question": "Qual a altura da rede de vôlei nos jogos masculino e feminino?",
+      "choices": "a) 2,4 para ambos\nb) 2,5 m e 2,0 m\nc) 1,8 m e 1,5 m\nd) 2,45 m e 2,15 m\ne) 2,43 m e 2,24 m",
+      "answer": "e"
+    },
+    {
+      "question": "Em que ordem surgiram os modelos atômicos?",
+      "choices": "a) Thomson, Dalton, Rutherford, Rutherford-Bohr\nb) Rutherford-Bohr, Rutherford, Thomson, Dalton\nc) Dalton, Rutherford-Bohr, Thomson, Rutherford\nd) Dalton, Thomson, Rutherford-Bohr, Rutherford\ne) Dalton, Thomson, Rutherford, Rutherford-Bohr",
+      "answer": "e"
+    },
+    {
+      "question": "Qual personagem folclórico costuma ser agradado pelos caçadores com a oferta de fumo?",
+      "choices": "a) Caipora\nb) Saci\nc) Lobisomem\nd) Boitatá\ne) Negrinho do Pastoreio\n\n",
+      "answer": "a"
+    },
+    {
+      "question": "Em que período da pré-história o fogo foi descoberto?",
+      "choices": "a) Neolítico\nb) Paleolítico\nc) Idade dos Metais\nd) Período da Pedra Polida\ne) Idade Média",
+      "answer": "b"
+    },
+    {
+      "question": "Qual das alternativas abaixo apenas contêm classes de palavras?",
+      "choices": "a) Vogais, semivogais e consoantes\nb) Artigo, verbo transitivo e verbo intransitivo\nc) Fonologia, Morfologia e Sintaxe\nd) Hiatos, ditongos e tritongos\ne) Substantivo, verbo e preposição",
+      "answer": "e"
+    },
+    {
+      "question": "Qual a montanha mais alta do Brasil?",
+      "choices": "a) Pico da Neblina\nb) Pico Paraná\nc) Monte Roraima\nd) Pico Maior de Friburgo\ne) Pico da Bandeira",
+      "answer": "a"
+    },
+    {
+      "question": "Qual a velocidade da luz?",
+      "choices": "a) 300 000 000 metros por segundo (m/s)\nb) 150 000 000 metros por segundo (m/s)\nc) 199 792 458 metros por segundo (m/s)\nd) 299 792 458 metros por segundo (m/s)\ne) 30 000 000 metros por segundo (m/s)",
+      "answer": "d"
+    },
+    {
+      "question": "Em qual local da Ásia o português é língua oficial?",
+      "choices": "a) Índia\nb) Filipinas\nc) Moçambique\nd) Macau\ne) Portugal",
+      "answer": "d"
+    },
+    {
+      "question": "'It is six twenty ou twenty past six'. Que horas são em inglês?",
+      "choices": "a) 12:06\nb) 6:20\nc) 2:20\nd) 6:02\ne) 12:20",
+      "answer": "b"
+    },
+    {
+      "question": "Quem é o autor de 'O Príncipe'?",
+      "choices": "a) Maquiavel\nb) Antoine de Saint-Exupéry\nc) Montesquieu\nd) Thomas Hobbes\ne) Rousseau",
+      "answer": "a"
+    },
+    {
+      "question": "Como é a conjugação do verbo caber na 1.ª pessoa do singular do presente do indicativo?",
+      "choices": "a) Eu caibo\nb) Ele cabe\nc) Que eu caiba\nd) Eu cabo\ne) Nenhuma das alternativas",
+      "answer": "a"
+    },
+    {
+      "question": "Quais destas construções famosas ficam nos Estados Unidos?",
+      "choices": "a) Estátua da Liberdade, Golden Gate Bridge e Empire State Building\nb) Estátua da Liberdade, Big Ben e The High Line\nc) Angkor Wat, Taj Mahal e Skywalk no Grand Canyon\nd) Lincoln Memorial, Sidney Opera House e Burj Khalifa\ne) 30 St Mary Axe, The High Line e Residencial 148 Spruce Street\n\n",
+      "answer": "a"
+    },
+    {
+      "question": "Quais destas doenças são sexualmente transmissíveis?",
+      "choices": "a) Aids, tricomoníase e ebola\nb) Chikungunya, aids e herpes genital\nc) Gonorreia, clamídia e sífilis\nd) Botulismo, cistite e gonorreia\ne) Hepatite B, febre tifoide e hanseníase",
+      "answer": "c"
+    },
+    {
+      "question": "Qual destes países é transcontinental?",
+      "choices": "a) Rússia\nb) Filipinas\nc) Istambul\nd) Groenlândia\ne) Tanzânia",
+      "answer": "a"
+    },
+    {
+      "question": "Em qual das orações abaixo a palavra foi empregada incorretamente?",
+      "choices": "a) Mais uma vez, portou-se mal.\nb) É um homem mal.\nc) Esse é o mal de todos.\nd) Mal falou nele, o fulano apareceu.\ne) É um mau vendedor.",
+      "answer": "b"
+    },
+    {
+      "question": "Qual foi o recurso utilizado inicialmente pelo homem para explicar a origem das coisas?",
+      "choices": "a) A Filosofia\nb) A Biologia\nc) A Matemática\nd) A Astronomia\ne) A Mitologia\n\n",
+      "answer": "e"
+    },
+    {
+      "question": "Qual das alternativas menciona apenas símbolos nacionais?",
+      "choices": "a) Bandeira insígnia da presidência, bandeira nacional, brasão, hinos e selo\nb) Bandeira nacional, armas nacionais, hino nacional e selo nacional\nc) Bandeira nacional, brasão, hino nacional e hino da independência\nd) Bandeira nacional, cores nacionais, hino nacional e hino da independência\ne) Bandeira insígnia da presidência, brasão flora e fauna e hinos",
+      "answer": "b"
+    },
+    {
+      "question": "Quais os planetas do sistema solar?",
+      "choices": "a) Terra, Vênus, Saturno, Urano, Júpiter, Marte, Netuno, Mercúrio\nb) Júpiter, Marte, Mercúrio, Netuno, Plutão, Saturno, Terra, Urano, Vênus\nc) Vênus, Saturno, Urano, Júpiter, Marte, Netuno, Mercúrio\nd) Júpiter, Marte, Mercúrio, Netuno, Plutão, Saturno, Sol, Terra, Urano, Vênus\ne) Terra, Vênus, Saturno, Júpiter, Marte, Netuno, Mercúrio",
+      "answer": "a"
+    },
+    {
+      "question": "Qual era o nome de Aleijadinho?",
+      "choices": "a) Alexandrino Francisco Lisboa\nb) Manuel Francisco Lisboa\nc) Alex Francisco Lisboa\nd) Francisco Antônio Lisboa\ne) Antônio Francisco Lisboa",
+      "answer": "e"
+    },
+    {
+      "question": "Júpiter e Plutão são os correlatos romanos de quais deuses gregos?",
+      "choices": "a) Ares e Hermes\nb) Cronos e Apolo\nc) Zeus e Hades\nd) Dionísio e Deméter\ne) Zeus e Ares",
+      "answer": "c"
+    },
+    {
+      "question": "Qual o maior animal terrestre?",
+      "choices": "a) Baleia Azul\nb) Dinossauro\nc) Elefante africano\nd) Tubarão Branco\ne) Girafa",
+      "answer": "c"
+    },
+    {
+      "question": "Qual o tema do famoso discurso Eu Tenho um Sonho, de Martin Luther King?",
+      "choices": "a) Igualdade das raças\nb) Justiça para os menos favorecidos\nc) Intolerância religiosa\nd) Prêmio Nobel da Paz\ne) Luta contra o Apartheid",
+      "answer": "a"
+    },
+    {
+      "question": "Que líder mundial ficou conhecida como “Dama de Ferro”?",
+      "choices": "a) Dilma Rousseff\nb) Angela Merkel\nc) Margaret Thatcher\nd) Hillary Clinton\ne) Christine Lagarde\n\n",
+      "answer": "c"
+    },
+    {
+      "question": "O que são Acordo de Paris e Tríplice Aliança respectivamente?",
+      "choices": "a) Acordo ortográfico entre países cuja língua oficial é o francês e Acordo de cooperação financeira internacional entre as três maiores potências mundiais\nb) Acordo entre países europeus acerca da imigração e Acordo econômico entre Inglaterra, Rússia a França\nc) Acordo entre vários países acerca das consequências do aquecimento global e Acordo de cooperação financeira internacional entre as três maiores potências mundiais\nd) Acordo de cooperação financeira internacional entre as três maiores potências mundiais e Acordo entre vários países acerca das consequências do aquecimento global\ne) Acordo entre vários países acerca das consequências do aquecimento global e Acordo entre Alemanha, império Austro-Húngaro e Itália acerca de apoio em caso de guerra\n\n",
+      "answer": "e"
+    },
+    {
+      "question": "Quais os nomes dos três Reis Magos?",
+      "choices": "a) Gaspar, Nicolau e Natanael\nb) Belchior, Gaspar e Baltazar\nc) Belchior, Gaspar e Nataniel\nd) Gabriel, Benjamim e Melchior\ne) Melchior, Noé e Galileu",
+      "answer": "b"
+    },
+    {
+      "question": "Quais os principais heterônimos de Fernando Pessoa?",
+      "choices": "a) Alberto Caeiro, Ricardo Reis e Álvaro de Campos\nb) Ariano Suassuna, Raul Bopp e Quincas Borba\nc) Bento Teixeira, Ricardo Reis e Haroldo de Campos\nd) Alberto Caeiro, Ricardo Leite e Augusto de Campos\ne) Bento Teixeira, Ricardo Reis e Augusto de Campos",
+      "answer": "a"
+    },
+    {
+      "question": "Qual a religião monoteísta que conta com o maior número de adeptos no mundo?",
+      "choices": "a) Judaísmo\nb) Zoroastrismo\nc) Islamismo\nd) Cristianismo\ne) Hinduísmo",
+      "answer": "d"
+    },
+    {
+      "question": "Qual desses filmes foi baseado na obra de Shakespeare?",
+      "choices": "a) Muito Barulho por Nada (2012)\nb) Capitães de Areia (2011)\nc) A Dama das Camélias (1936)\nd) A Revolução dos Bichos (1954)\ne) Excalibur (1981)",
+      "answer": "a"
+    },
+    {
+      "question": "Quem foi o primeiro homem a pisar na Lua? Em que ano aconteceu?",
+      "choices": "a) Yuri Gagarin, em 1961\nb) Buzz Aldrin, em 1969\nc) Charles Conrad, em 1969\nd) Charles Duke, em 1971\ne) Neil Armstrong, em 1969.",
+      "answer": "e"
+    },
+    {
+      "question": "Qual o nome do cientista que descobriu o processo de pasteurização e a vacina contra a raiva?",
+      "choices": "a) Marie Curie\nb) Blaise Pascal\nc) Louis Pasteur\nd) Antoine Lavoisier\ne) Charles Darwin",
+      "answer": "c"
+    },
+    {
+      "question": "As pessoas de qual tipo sanguíneo são consideradas doadores universais?",
+      "choices": "a) Tipo A\nb) Tipo B\nc) Tipo O\nd) Tipo AB\ne) Tipo ABO\n\n",
+      "answer": "c"
+    },
+    {
+      "question": "Quais são os cromossomos que determinam o sexo masculino?",
+      "choices": "a) Os V\nb) Os X\nc) Os Y\nd) Os W\ne) Os Z\n\n",
+      "answer": "c"
+    },
+    {
+      "question": "Em que estado australiano fica situada a cidade de Sydney?",
+      "choices": "a) Nova Gales do Sul\nb) Victoria\nc) Tasmânia\nd) Queensland\ne) Norfolk",
+      "answer": "a"
+    },
+    {
+      "question": "Quem amamentou os gêmeos Rômulo e Remo?",
+      "choices": "a) uma cabra\nb) uma vaca\nc) uma ovelha\nd) uma gata\ne) uma loba",
+      "answer": "e"
+    },
+    {
+      "question": "No exterior de que famoso edifício francês foi construída uma enorme pirâmide de vidro em 1989?",
+      "choices": "a) Torre Eiffel\nb) Petit Palais\nc) Grand Palais\nd) Museu do Louvre\ne) Arco do Triunfo",
+      "answer": "d"
+    },
+    {
+      "question": "Como se chamam os vasos que transportam sangue do coração para a periferia do corpo?",
+      "choices": "a) veias\nb) átrios\nc) ventrículos\nd) artérias\ne) aurículos",
+      "answer": "d"
+    },
+    {
+      "question": "Com que dois países faz fronteira o Equador?",
+      "choices": "a) com o Brasil e com a Colômbia\nb) com a Colômbia e com a Venezuela\nc) com a Colômbia e com o Peru\nd) com o Peru e com o Equador\ne) com o Equador e o Brasil",
+      "answer": "c"
+    },
+    {
+      "question": "Que animal gruguleja?",
+      "choices": "a) o pavão\nb) a garça\nc) o papagaio\nd) a cacatua\ne) o peru",
+      "answer": "e"
+    },
+    {
+      "question": "Qual é o maior arquipélago da Terra?",
+      "choices": "a) a Filipinas\nb) a Indonésia\nc) as Bahamas\nd) a Finlândia\ne) as Maldivas",
+      "answer": "b"
+    },
+    {
+      "question": "Que substância é absorvida pelas plantas e expirada por todos os seres vivos?",
+      "choices": "a) o oxigênio\nb) o nitrogênio\nc) o nitrato de sódio\nd) o dióxido de ferro\ne) o dióxido de carbono\n\n",
+      "answer": "e"
+    },
+    {
+      "question": "Em que oceano fica Madagascar?",
+      "choices": "a) Oceano Índico\nb) Oceano Antártico\nc) Oceano Atlântico\nd) Oceano Pacífico\ne) Oceano Ártico",
+      "answer": "a"
+    },
+    {
+      "question": "Que artista é conhecido como um dos expoentes máximos do Ready-Mades?",
+      "choices": "a) Pablo Picasso\nb) Salvador Dalí\nc) Marcel Duchamp\nd) Van Gogh\ne) Leonardo da Vinci",
+      "answer": "c"
+    },
+    {
+      "question": "Qual o metal cujo símbolo químico é o Au?",
+      "choices": "a) Cobre\nb) Prata\nc) Mercúrio\nd) Ouro\ne) Manganês",
+      "answer": "d"
+    },
+    {
+      "question": "Em que século o continente europeu foi devastado pela peste bubônica?",
+      "choices": "a) No século X\nb) No século XI\nc) No século XII\nd) No século XIII\ne) No século XIV\n\n",
+      "answer": "e"
+    },
+    {
+      "question": "Quem viveu, segundo a bíblia, 969 anos?",
+      "choices": "a) Jesus Cristo\nb) Noé\nc) Matusalém\nd) Benjamim\ne) Abel\n\n",
+      "answer": "c"
+    },
+    {
+      "question": "Em que cidade ocorreu a Eco-92, a Conferência das Nações Unidas sobre ambiente e desenvolvimento?",
+      "choices": "a) Buenos Aires\nb) Rio de Janeiro\nc) Montevidéu\nd) Assunção\ne) Caracas",
+      "answer": "b"
+    },
+    {
+      "question": "Quem pintou o teto da capela sistina?",
+      "choices": "a) Michelangelo\nb) Leonardo da Vinci\nc) Rafael\nd) Sandro Botticelli\ne) Donatello",
+      "answer": "a"
+    },
+    {
+      "question": "Quantos graus são necessários para que dois ângulos sejam complementares?",
+      "choices": "a) 45\nb) 60\nc) 90\nd) 180\ne) 360",
+      "answer": "c"
+    },
+    {
+      "question": "Quem foi o criador da tragédia grega?",
+      "choices": "a) Homero\nb) Eurípedes\nc) Plutarco\nd) Ésquilo\ne) Sófocles",
+      "answer": "d"
+    },
+    {
+      "question": "Jim Morrison era vocalista de que grupo?",
+      "choices": "a) The Police\nb) The Doors\nc) Pink Floyd\nd) Nirvana\ne) AC/DC",
+      "answer": "b"
+    },
+    {
+      "question": "Em qual país está localizada a famosa torre inclinada de Pisa?",
+      "choices": "a) Itália\nb) Grécia\nc) Franca\nd) Bélgica\ne) Espanha",
+      "answer": "a"
+    },
+    {
+      "question": "Qual é o coletivo de cães?\n",
+      "choices": "a) Alcateia\nb) Rebanho\nc) Cardume\nd) Manada\ne) Matilha",
+      "answer": "e"
+    },
+    {
+      "question": "Em qual parte do corpo humano são implantadas as pontes de safena?",
+      "choices": "a) Estômago\nb) Intestino\nc) Pulmão\nd) Coração",
+      "answer": "d"
+    },
+    {
+      "question": "Segundo a Bíblia, em que rio Jesus foi batizado por João Batista?",
+      "choices": "a) No Rio Nilo\nb) No Rio Sena\nc) No Rio Reno\nd) No Rio Jordão",
+      "answer": "d"
+    },
+    {
+      "question": "Como é conhecido o jogador Edmundo?",
+      "choices": "a) Tigrão\nb) Gatinho\nc) Animal\nd) Cobra",
+      "answer": "c"
+    },
+    {
+      "question": "Na literatura, quem foi o criador da boneca Emília?",
+      "choices": "a) Monteiro Lobato\nb) Mauricio de Sousa\nc) Walt Disney\nd) Jorge Amado",
+      "answer": "a"
+    },
+    {
+      "question": "Segundo o romance, que animal era Moby Dick?",
+      "choices": "a) Tubarão\nb) Golfinho\nc) Polvo\nd) Baleia",
+      "answer": "d"
+    },
+    {
+      "question": "Qual é o inseto que transmite a doença de Chagas?",
+      "choices": "a) Abelha\nb) Barata\nc) Barbeiro\nd) Pulga",
+      "answer": "c"
+    },
+    {
+      "question": "Qual destes personagens não veste uma capa?",
+      "choices": "a) Super-Homem\nb) Batman\nc) Wolverine\nd) Zorro",
+      "answer": "c"
+    },
+    {
+      "question": "O que se encontra no final do arco-íris?",
+      "choices": "a) Saco de diamantes\nb) Pote de ouro\nc) Barra de prata\nd) Esmeraldas",
+      "answer": "b"
+    },
+    {
+      "question": "Um cleptomaníaco tem como principal característica:",
+      "choices": "a) Medo de escuro\nb) Mania de roubar\nc) Medo de altura\nd) Mania de perseguição ",
+      "answer": "b"
+    },
+    {
+      "question": "Qual o motivo da condenação de Luís Inácio Lula da Silva em 2018?",
+      "choices": "a) Recebimento de apartamento de luxo no Guarujá (SP) como propina na Operação Lava Jato\nb) Corrupção e lavagem de dinheiro na Operação Lava Jato\nc) Tráfico de influência internacional na Operação Janus\nd) Obstrução da justiça na Operação Lava Jato\ne) Formação de quadrilha na Operação Lava Jato",
+      "answer": "a"
+    },
+    {
+      "question": "Como se chama o lugar onde ficam as mulheres do sultão?",
+      "choices": "a) Harém\nb) Labirinto\nc) Coliseu\nd) Chopana",
+      "answer": "a"
+    },
+    {
+      "question": "Em que ano foi lançado o primeiro filme do Homem de Ferro, dando início ao Universo Cinematográfico da Marvel?",
+      "choices": "a) 2005\nb) 2008\nc) 2010\nd) 2012",
+      "answer": "b"
+    },
+    {
+      "question": "De que é feito o escudo do Capitão América?",
+      "choices": "a) Adamantium\nb) Vibranium\nc) Promécio\nd) Carbonádio",
+      "answer": "b"
+    },
+    {
+      "question": "Sobre que cidade Hawkeye e Viúva Negra costumam relembrar?",
+      "choices": "a) Budapeste\nb) Praga\nc) Istambul\nd)Sokovia",
+      "answer": "a"
+    },
+    {
+      "question": "Qual o nome do ator que fez Steve Rogers, vugo Capitão América no filme Os Vingadores?",
+      "choices": "a) Chris Evans\nb) Robert Downey Jr\nc) Mark Ruffalo\nd) Samuel Jackson",
+      "answer": "a"
+    },
+    {
+      "question": "Qual é o nome do Senhor Das Estrelas?",
+      "choices": "a) Groot\nb) Gamora\nc) Peter Quill\nd) Drax",
+      "answer": "c"
+    },
+    {
+      "question": "Em que ano a Marvel foi criada?",
+      "choices": "a) 1939\nb) 1930\nc) 1950\nd) 1942",
+      "answer": "a"
+    },
+    {
+      "question": "Qual é o nome da armadura criada pelo Homem de Ferro para deter o Hulk?",
+      "choices": "a) Mark Hulk\nb) Stop Hulk\nc) Hulk Smash\nd) Hulk Buster",
+      "answer": "d"
+    },
+    {
+      "question": "Quais heróis da Marvel tem 3 filmes?",
+      "choices": "a) Capitão América, Viúva Negra, Homem-Aranha\nb) Thor, Capitão América, Homem-Aranha\nc) Homem-Formiga, Homem de Ferro, Thor\nd) Thor, Homem de Ferro e Capitão América",
+      "answer": "d"
+    },
+    {
+      "question": "Quais dos seis vingadores não tem poderes?",
+      "choices": "a) Viúva Negra, Thor e Gavião Arqueiro\nb) Viúva Negra, Gavião Arqueiro e Homem de Ferro\nc) Homem de Ferro, Hulk e Thor\nd) Gavião Arqueiro, Homem de Ferro e Thor",
+      "answer": "b"
+    },
+    {
+      "question": "No filme Vingadores: Guerra do Infinito quem foi a primeira pessoa a transformar-se em pó?",
+      "choices": "a) Peter Parker\nb) Pantera Negra\nc) Groot\nd) Bucky",
+      "answer": "d"
+    },
+    {
+      "question": "Em que ano a DC foi fundada?",
+      "choices": "a) 1933\nb) 1938\nc) 1943\nd) 1934",
+      "answer": "d"
+    },
+    {
+      "question": "Como a DC era conhecida originalmente?",
+      "choices": "a)Amalgam Comics\nb) Vertigo Comics\nc) Super Comics\nd) National Allied Comics",
+      "answer": "d"
+    },
+    {
+      "question": "Qual é o nome de batismo de Super-Homem?",
+      "choices": "a) Klark Kent\nb) Jor-El\nc) Kal-El\nd) Trust-El",
+      "answer": "c"
+    },
+    {
+      "question": "Quem fica paraplégico(a) ao levar um tiro do Coringa na famosa HQ \"A Piada Mortal\"?",
+      "choices": "a) Barbara Gordon\nb) Jason Todd, o Robin\nc) Alfred\nd) Comissário Gordon",
+      "answer": "a"
+    },
+    {
+      "question": "Qual foi o primeiro herói da DC Comics?",
+      "choices": "a) Aquaman\nb) Super Homem\nc) Doutor Oculto\nd) Batman",
+      "answer": "c"
+    },
+    {
+      "question": "Com qual idade Batman perdeu seus pais?",
+      "choices": "a) 8 anos\nb) 15 anos\nc) 18 anos\nd) 5 anos",
+      "answer": "a"
+    },
+    {
+      "question": "Em que ano foi lançado 'Crise nas Infinitas Terras'?",
+      "choices": "a) 1974\nb) 1992\nc) 1998\nd) 1985",
+      "answer": "d"
+    },
+     {
+      "question": "No arco de quadrinhos Morte em Família, qual personagem supostamente é morto pelo coringa e depois de muito tempo volta como um vilão?",
+      "choices": "a) Dick Grayson\nb) Bruce Wayne\nc) Jason Todd\nd) Bane",
+      "answer": "c"
+    },
+     {
+      "question": "Em 'A morte de Superman' quem é o vilão que mata o herói Superman?",
+      "choices": "a) Darkseid\nb) Apocalipse\nc) Lex Luthor\nd) General Zod",
+      "answer": ""
+    },
+     {
+      "question": "Após a saga Flashpoint um evento aconteceu na DC, qual o nome desse evento?",
+      "choices": "a) Novos 52\nb) Reboot\nc) Crise nas infinitas terras\nd) Injustice",
+      "answer": "a"
+    },
+    {
+      "question": "Quantos planetas Terra cabem dentro do Sol?",
+      "choices": "a) Um milhão\nb) Cem\nc) Seiscentos\nd) Cento de cinquenta\ne) Dois milhões",
+      "answer": "a"
+    },
+    {
+      "question": "Em que lugar vivem mais cangurus do que pessoas?",
+      "choices": "a) Indonésia\nb) Nova Zelândia\nc) Austrália\nd) Papua-Nova Guiné\ne) África do Sul",
+      "answer": "c"
+    },
+    {
+      "question": "Quantos olhos a maior parte das aranhas têm?",
+      "choices": "a) Dois\nb) Quatro\nc) Quatro pares\nd) Seis\ne) Um",
+      "answer": "c"
+    },
+    {
+      "question": "O que mede a Escala Mercalli?",
+      "choices": "a) A intensidade dos ventos\nb) A intensidade sísmica de acordo com os danos provocados\nc) A resistência dos minerais\nd) A magnitude de um terremoto\ne) A eletronegatividade",
+      "answer": "b"
+    },
+    {
+      "question": "Qual das alternativas contém apenas nomes de rios?",
+      "choices": "a) São Francisco, Douro, Antártico\nb) Nilo, Amazonas, Mississipi\nc) Cáspio, Vermelho, Reno\nd) Tocantins, Bering, Ganges\ne) Danúbio, Jordão, Morto",
+      "answer": "b"
+    },
+    {
+      "question": "Quanto mede uma girafa?",
+      "choices": "a) Entre 4,8 e 5,5 metros\nb) 2 metros\nc) Entre 5 e 6 metros\nd) 2,5 metros\ne) 4 metros",
+      "answer": "a"
+    },
+    {
+      "question": "Qual a ciência que estuda a atmosfera da Terra e a climatologia?",
+      "choices": "a) Astronomia\nb) Metereologia\nc) Dispersão atmosférica\nd) Meteorologia\ne) Horologia",
+      "answer": "d"
+    },
+    {
+      "question": "Quantos braços tem um polvo?",
+      "choices": "a) Seis\nb) Oito\nc) Dez\nd) Sete\ne) Três",
+      "answer": "b"
+    },
+    {
+      "question": "Qual das alternativas contém apenas animais cujos esqueletos são externos?",
+      "choices": "a) Caracóis, caranguejos e lagostas\nb) Besouros, peixes e formigas\nc) Caracóis, lulas e aranhas\nd) Borboletas, caranguejos e peixes\ne) Lagostas, polvos e escorpiões",
+      "answer": "a"
+    },
+    {
+      "question": "Qual das alternativas traz apenas nomes de grandes inventores?",
+      "choices": "a) Alfred Nobel, José Bonifácio, Leonardo da Vinci\nb) Machado de Assis, Oscar Niemeyer e Dmitri Mendeleiev\nc) Evangelista Torricelli, Thomas Edison, Pablo Picasso\nd) Stephen Poplawski, Tarsila do Amaral, Amalie Auguste Melitta Bentz\ne) Alexander Graham Bell, Bartolomeu de Gusmão, Galileu Galilei",
+      "answer": "e"
+    },
+    {
+      "question": "Indique quais as respectivas invenções dos inventores Alexander Graham Bell e Galileu Galilei.",
+      "choices": "a) Lâmpada e avião\nb) Internet e televisão\nc) Futebol e celular\nd) Telefone e termômetro\ne) Relógio e giroscópio",
+      "answer": "d"
+    },
+    {
+      "question": "Nesses pares, ambos são mamíferos:",
+      "choices": "a) Baleia azul e golfinhos\nb) Morcegos e galinhas\nc) Girafas e tartarugas\nd) Porcos e pinguins\ne) Macacos e sapos",
+      "answer": "a"
+    },
+    {
+      "question": "Quanto tempo o vidro demora para se decompor?",
+      "choices": "a) 500 anos\nb) 1000 anos\nc) 4000 anos\nd) 1 milhão de anos\ne) tempo indeterminado",
+      "answer": "e"
+    },
+    {
+      "question": "De que são constituídos os diamantes?",
+      "choices": "a) Grafite\nb) Rênio\nc) Carbono\nd) Ósmio\ne) Bóhrio",
+      "answer": "c"
+    },
+    {
+      "question": "Qual o significado das setas do símbolo internacional da reciclagem Símbolo da reciclagem?",
+      "choices": "a) Fabricação, utilização e reutilização\nb) Papel, vidro e metal\nc) Papel, vidro e plástico\nd) Lixo, reaproveitamento e fabricação\ne) Coleta, separação e consumo\n\n",
+      "answer": "a"
+    },
+    {
+      "question": "Em que ordem aparecem as cores do arco-íris sempre?",
+      "choices": "a) Amarelo, laranja, vermelho, azul, anil (ou índigo), verde e violeta\nb) Amarelo, violeta, laranja, verde, vermelho, anil (ou índigo) e azul\nc) Vermelho, laranja, violeta, anil (ou índigo), azul, verde e amarelo\nd) Vermelho, laranja, amarelo, branco, verde, azul e violeta\ne) Vermelho, laranja, amarelo, verde, azul, anil (ou índigo) e violeta",
+      "answer": "e"
+    },
+    {
+      "question": "Qual dessas aves não voa?",
+      "choices": "a) Pinguim\nb) Galinha\nc) Cegonha\nd) Pato\ne) Peru",
+      "answer": "a"
+    },
+    {
+      "question": "A quem foi atribuído pela primeira vez o Prêmio Nobel da Paz?",
+      "choices": "a) Frédéric Passy\nb) Martin Luther King Jr.\nc) Frédéric Passy e Henry Dunant\nd) Henri Becquerel e Marie Curie\ne) Madre Teresa de Calcutá",
+      "answer": "c"
+    },
+    {
+      "question": "O que é um Papiloscopista?",
+      "choices": "a) Especialista em cópias\nb) Profissional especializado em identificação humana\nc) Indivíduo responsável por crianças órfãs\nd) Pessoa que tem uma pequena saliência cônica na língua\ne) Indivíduo que se dedica ao estudo de papiros",
+      "answer": "b"
+    },
+    {
+      "question": "Qual é respectivamente o animal terrestre mais lento e o mais veloz?",
+      "choices": "a) Bicho-preguiça e guepardo\nb) Tartaruga e lebre\nc) Coala e cavalo\nd) Caracol e tubarão\ne) Bicho-preguiça e libélula\n\n",
+      "answer": "a"
+    },
+    {
+      "question": "Método de seleção em que predomina o mérito. Essa é a definição de qual conceito da Sociologia?",
+      "choices": "a) Aristocracia\nb) Fidalguia\nc) Tirania\nd) Meritocracia\ne) Romaria\n\n",
+      "answer": "d"
+    },
+    {
+      "question": "O que é Ortorexia?",
+      "choices": "a) Obsessão pelo consumo de alimentos saudáveis\nb) Transtorno alimentar caracterizado pela perda de apetite\nc) Obsessão em falar de forma correta\nd) Preocupação exagerada em ter um corpo elegante\ne) Distúrbio alimentar que provoca a ingestão excessiva de alimentos",
+      "answer": "a"
+    },
+    {
+      "question": "Qual desses autores brasileiros escreveu O Guarani e O Gaúcho?",
+      "choices": "a) Aluísio de Azevedo\nb) José de Anchieta\nc) José de Alencar\nd) Gonçalves Dias\ne) Gonçalves de Magalhães\n\n",
+      "answer": "c"
+    },
+    {
+      "question": "Qual o significado da expressão “calcanhar de Aquiles”?",
+      "choices": "a) A característica predominante das pessoas\nb) Fuga dos problemas\nc) O ponto mais vulnerável de alguém\nd) Esporão\ne) Parte em que as pessoas concentram a sua força",
+      "answer": "c"
+    },
+    {
+      "question": "O etanol é produzido através de qual fonte de energia?",
+      "choices": "a) Solar\nb) Biomassa\nc) Eólica\nd) Geotérmica\ne) Hidrelétrica",
+      "answer": "b"
+    },
+    {
+      "question": "Qual destas, apesar do seu nome, não é considerada um tipo de força?",
+      "choices": "a) Força de atrito\nb) Força peso\nc) Força centrípeta\nd) Força eletromotriz\ne) Força normal",
+      "answer": "d"
+    },
+    {
+      "question": "Qual desses não é um instrumento meteorológico?",
+      "choices": "a) Barógrafo\nb) Termômetro\nc) Pluviômetro\nd) Anemômetro\ne) Etilômetro",
+      "answer": "e"
+    },
+    {
+      "question": "Este é um exemplo de palíndromo:",
+      "choices": "a) Roma é amor.\nb) O rato roeu a roupa do rei de Roma.\nc) Quem tem boca vai à Roma.\nd) O que é, o que é? Feito para andar e não anda?\ne) \"Uni, duni, tê, Salamê, mingüê, Um sorvete colorê, O escolhido foi você!\"",
+      "answer": "a"
+    },
+    {
+      "question": "Homem Vitruviano é um desenho de qual artista famoso?",
+      "choices": "a) Michelangelo\nb) Donatello\nc) William Shakespeare\nd) Van Gogh\ne) Leonardo da Vinci",
+      "answer": "e"
+    },
+    {
+      "question": "Em qual das alternativas constam apenas maravilhas do mundo?",
+      "choices": "a) Estátua de Zeus em Olímpia, Cristo Redentor, Centro Histórico de Ouro Preto\nb) Pirâmides do Egito, Coliseu de Roma, Cristo Redentor\nc) Muralha da China, Taj Mahal, Pirâmide do Sol\nd) Torre Eiffel, Machu Picchu, Colosso de Rodes\ne) Big Ben, Torre de Pisa, Jardins Suspensos da Babilônia",
+      "answer": "b"
+    },
+    {
+      "question": "Palavra “paz” soletrada através do alfabeto fonético da Otan:",
+      "choices": "a) Pá - amor - zuuum\nb) Pisces - alfa - zelo\nc) Paz - Aurélio - zulu\nd) Papa - alfa - zulu\ne) Delta - Charlie - ômega",
+      "answer": "d"
+    },
+    {
+      "question": "O Dia do Fico é anualmente celebrado em que data?",
+      "choices": "a) 7 de setembro\nb) 19 de abril\nc) 19 de novembro\nd) 9 de janeiro\ne) 1º de maio",
+      "answer": "d"
+    },
+    {
+      "question": "Listras azuis e brancas intercaladas e um sol no canto superior esquerdo caracterizam a bandeira de qual país da América do Sul?",
+      "choices": "a) Argentina\nb) Brasil\nc) Uruguai\nd) Namíbia\ne) Japão",
+      "answer": "c"
+    },
+    {
+      "question": "Complete a frase: ___ ao vencedor!",
+      "choices": "a) Quimeras\nb) Cócoras\nc) Oblações\nd) Alvíssaras\ne) Apupos",
+      "answer": "d"
+    },
+    {
+      "question": "As cantigas de Escárnio e Maldizer pertencem a qual escola literária?",
+      "choices": "a) Modernismo\nb) Classicismo\nc) Barroco\nd) Quinhentismo\ne) Trovadorismo",
+      "answer": "e"
+    },
+    {
+      "question": "Quantos dias, aproximadamente, a Lua demora para dar uma volta à Terra?",
+      "choices": "a) 365 dias\nb) 366 dias\nc) 28 dias\nd) 31 dias\ne) 1 dia\n\n",
+      "answer": "c"
+    },
+    {
+      "question": "O português é a língua oficial nesses três países:",
+      "choices": "a) Guiné-Bissau, África do Sul e Brasil\nb) Guiné Equatorial, Cabo Verde e Angola\nc) Venezuela, Angola e Portugal\nd) Macau, Timor-Leste e Moçambique\ne) Argentina, São Tomé e Príncipe e Guiné Equatorial",
+      "answer": "b"
+    },
+    {
+      "question": "Qual a unidade que mede a intensidade do som?",
+      "choices": "a) Decibel\nb) Frequência\nc) Hertz\nd) Compasso\ne) Ruído\n\n",
+      "answer": "a"
+    },
+    {
+      "question": "Em que país nasceu o Conde Drácula?",
+      "choices": "a) Polônia\nb) Irlanda\nc) Escócia\nd) Transilvânia\ne) Rússia\n\n",
+      "answer": "d"
+    },
+    {
+      "question": "Que tipo de tempestade é um haboob?",
+      "choices": "a) tempestade de neve\nb) tempestade de granizo\nc) tempestade de areia\nd) tempestade de raios\ne) tempestade de relâmpagos",
+      "answer": "c"
+    },
+    {
+      "question": "Que capital asiática tem uma Cidade Imperial e uma Cidade Proibida?",
+      "choices": "a) Nova Delhi\nb) Pequim\nc) Tóquio\nd) Cingapura\ne) Seul",
+      "answer": "b"
+    },
+    {
+      "question": "Que autor da antiguidade clássica escreveu As Bacantes?",
+      "choices": "a) Homero\nb) Sófocles\nc) Ésquilo\nd) Plutarco\ne) Eurípides",
+      "answer": "e"
+    },
+    {
+      "question": "Que país foi dividido em 1949?",
+      "choices": "a) Bélgica\nb) Alemanha\nc) Polônia\nd) Áustria\ne) Dinamarca",
+      "answer": "b"
+    },
+    {
+      "question": "Que povo foi o primeiro a utilizar a bússola?",
+      "choices": "a) gregos\nb) romanos\nc) chineses\nd) mesopotâmicos\ne) egípcios",
+      "answer": "c"
+    },
+    {
+      "question": "Segundo Pitágoras, a que é igual A2 + B2?",
+      "choices": "a) AB\nb) B3\nc) B4\nd) C2\ne) C4",
+      "answer": "d"
+    },
+    {
+      "question": "Qual era o deus romano do amor?",
+      "choices": "a) Eros\nb) Apolo\nc) Baco\nd) Cupido\ne) Júpiter",
+      "answer": "d"
+    },
+    {
+      "question": "Que personagem da mitologia grega era metade homem metade cavalo?",
+      "choices": "a) Centauro\nb) Sátiro\nc) Górgona\nd) Gigante\ne) Tártaro",
+      "answer": "a"
+    },
+    {
+      "question": "Segundo que meridiano acertamos os nossos relógios?",
+      "choices": "a) Meridiano Central\nb) Meridiano do Equador\nc) Meridiano de Greenwich\nd) Meridiano da Terra\ne) Meridiano Internacional",
+      "answer": "c"
+    },
+    {
+      "question": "Como se chama o passarinho amarelo amigo de Snoopy?",
+      "choices": "a) Bobby\nb) Daffy\nc) Woodstock\nd) Magoo\ne) Wile",
+      "answer": "c"
+    },
+    {
+      "question": "Que número se repete 3 vezes quando se menciona a altura em metros, do Monte Everest?",
+      "choices": "a) o 4\nb) o 5\nc) o 6\nd) o 7\ne) o 8",
+      "answer": "e"
+    },
+    {
+      "question": "'O esquema funcionava através da superfaturação de obras que faziam parte de um programa que tinha como objetivo acelerar o crescimento econômico no País'. Essa descrição corresponde a uma operação criminosa no Brasil. Trata-se da:",
+      "choices": "a) Operação Lava Jato\nb) Operação Greenfield\nc) Operação Navalha\nd) Operação Panatenaico\ne) Operação Carne Fraca",
+      "answer": "c"
+    },
+    {
+      "question": "Em que ano e onde aconteceu o maior acidente aéreo da história do Brasil?",
+      "choices": "a) Ano 2007, em São Paulo\nb) Ano 2006, no Mato Grosso\nc) Ano 1982, no Ceará\nd) Ano 1996, em São Paulo\ne) Ano 1952, na Floresta Amazônica",
+      "answer": "a"
+    },
+    {
+      "question": "Duas das afirmações abaixo estão erradas:\n\nIntolerância religiosa é um crime de ódio.\nA intolerância religiosa não é crime no Brasil.\nA pena para crime de intolerância religiosa vai de 1 a 3 anos de prisão.\nIntolerância religiosa é cometer atos de vandalismo contra os templos de outras religiões.\nA liberdade de expressão garante o direito para dizer o que se quer sobre crenças ou religiões que não a nossa.",
+      "choices": "a) 1 e 2\nb) 2 e 3\nc) 5 e 4\nd) 1 e 3\ne) 2 e 5",
+      "answer": "e"
+    },
+    {
+      "question": "Quais destas empresas brasileiras foram incluídas no pacote de privatizações do governo Temer?\n\nEletrobras\nCasa da Moeda\nEmbraer\nVale S.A.\nAeroporto Internacional do Rio de Janeiro Galeão/Tom Jobim",
+      "choices": "a) Eletrobras e Embraer\nb) Eletrobras e Casa da Moeda\nc) Aeroporto de Congonhas e Vale S.A.\nd) Casa da Moeda e Aeroporto Internacional do Rio de Janeiro Galeão/Tom Jobim\ne) Embraer e Aeroporto Internacional do Rio de Janeiro Galeão/Tom Jobim",
+      "answer": "b"
+    },
+    {
+      "question": "Quais os quatros países que têm a maior população carcerária do mundo?",
+      "choices": "a) Brasil, Estados Unidos, México e Índia\nb) China, Estados Unidos, Índia e Indonésia\nc) Rússia, Japão, Canadá e China\nd) Estados Unidos, China, Rússia e Brasil\ne) Brasil, Estados Unidos, China e Vaticano",
+      "answer": "d"
+    },
+    {
+      "question": "Qual foi a revolução que alavancou a independência do Brasil e em 2017 completou o segundo centenário?",
+      "choices": "a) Revolução Farroupilha\nb) Revolução Federalista\nc) Revolução Praieira\nd) Revolução Pernambucana\ne) Revolução Acreana",
+      "answer": "d"
+    },
+    {
+      "question": "Qual das alternativas traz uma das medidas do presidente Trump, anunciada em 2017, que causou polêmica?",
+      "choices": "a) Construção de um muro na fronteira com o Canadá\nb) Cessação de Acordo de Comércio Livre (ACL) entre os Estados Unidos e Israel\nc) Saída do Acordo de Paris\nd) Saída da OTAN - Organização do Tratado do Atlântico Norte\ne) Reconciliação dos EUA com Cuba",
+      "answer": "c"
+    },
+    {
+      "question": "Que país que tem realizado testes nucleares e, em 2017, ameaçou principalmente os Estados Unidos da América?",
+      "choices": "a) Síria\nb) Israel\nc) China\nd) Paquistão\ne) Coreia do Norte",
+      "answer": "e"
+    },
+    {
+      "question": "O que é Brexit?",
+      "choices": "a) Saída do Reino Unido da Zona Euro\nb) Saída do Reino Unido da União Europeia\nc) Saída da Inglaterra do Reino Unido\nd) Fim da monarquia no Reino Unido\ne) Mudança do sistema de governo no Reino Unido",
+      "answer": "b"
+    },
+    {
+      "question": "Quais os países que mais têm recebido refugiados sírios?",
+      "choices": "a) Turquia e Líbano\nb) Alemanha e França\nc) Jordânia e Sérvia\nd) Iraque e Suécia\ne) Turquia e Egito",
+      "answer": "a"
+    },
+    {
+      "question": "O que é o Acordo de Paris?",
+      "choices": "a) Acordo internacional que trata da restrição de imigrantes em Paris\nb) Acordo internacional que trata da proteção da França dos atentados terroristas\nc) Acordo internacional que trata do Desenvolvimento Sustentável\nd) Acordo internacional que trata da poluição radioativa\ne) Acordo internacional que trata do aquecimento global",
+      "answer": "e"
+    },
+    {
+      "question": "Qual a nacionalidade do sociólogo e filósofo Durkheim?",
+      "choices": "a) Alemã\nb) Francesa\nc) Inglesa\nd) Italiana\ne) Norueguesa",
+      "answer": "b"
+    },
+    {
+      "question": "Quais os acontecimentos completaram 100 e 500 anos respectivamente em 2017?",
+      "choices": "a) Revolução Pernambucana e Revolta da Sabinada\nb) Semana da Arte Moderna e aniversário da morte de Maquiavel\nc) Revolução Russa e Reforma Protestante\nd) Centenário do nascimento de Frida Khalo e Início do Classicismo\ne) Centenário do nascimento de Oscar Niemeyer e Reforma Protestante\n\n",
+      "answer": "c"
+    },
+    {
+      "question": "Qual dentre esses casos não foi confirmado como atentado terrorista em 2017?",
+      "choices": "a) Explosão de homem bomba após show de Ariana Grande em Manchester\nb) Explosão no metrô de São Petersburgo, na Rússia\nc) Tiroteio em massa em Las Vegas\nd) Explosões em igrejas no Egito no Domingo de Ramos\ne) Atropelamento na Ponte de Londres seguido de esfaqueamentos no Mercado Borough\n\n",
+      "answer": "c"
+    },
+    {
+      "question": "Lady Di era o apelido de qual personalidade?",
+      "choices": "a) Chiquinha Gonzaga\nb) Joana d’Arc\nc) Carlota Joaquina\nd) Diana, a Princesa de Gales\ne) Grace Kelly\n\n",
+      "answer": "d"
+    },
+    {
+      "question": "Durante quantos anos Fidel Castro, um dos governantes que esteve mais tempo no poder, esteve à frente de Cuba?",
+      "choices": "a) 39 anos\nb) 32 anos\nc) 40 anos\nd) 49 anos\ne) 46 anos\n\n",
+      "answer": "d"
+    },
+    {
+      "question": "Por que a Catalunha foi um tema de destaque em 2017?",
+      "choices": "a) Por causa da crise que provoca na Espanha quando luta pela sua independência\nb) Porque quer sair da União Europeia\nc) Porque o reino da Espanha quer se separar da Catalunha\nd) Porque quer sair da Zona Euro e criar uma moeda própria\ne) Porque a Espanha acredita que a separação será benéfica para a economia espanhola",
+      "answer": "a"
+    },
+    {
+      "question": "Qual a função da ONU?",
+      "choices": "a) Zelar pela cultura em todas as nações\nb) Unir as nações com o objetivo de manter a paz e a segurança mundial\nc) Financiar países em desenvolvimento\nd) Regular o funcionamento do sistema financeiro a nível internacional\ne) Gerenciar acordos de comércio entre os países",
+      "answer": "b"
+    },
+    {
+      "question": "Qual a primeira mulher a ganhar um prêmio Nobel?",
+      "choices": "a) Madre Teresa de Calcutá\nb) Elizabeth Blackweel\nc) Irène Joliot-Curie\nd) Valentina Tereshkova\ne) Marie Curie\n\n",
+      "answer": "e"
+    },
+    {
+      "question": "Eva Braun era o nome da esposa de qual dessas personalidades conhecidas pela sua crueldade?",
+      "choices": "a) Vladimir Lenin\nb) Benito Mussolini\nc) Josef Stalin\nd) Augusto Pinochet\ne) Adolf Hitler\n\n",
+      "answer": "e"
+    },
+    {
+      "question": "Em que governo brasileiro foi sancionada a lei das cotas para o ensino superior?",
+      "choices": "a) Governo de Dilma Rousseff\nb) Governo de José Sarney\nc) Governo de Fernando Henrique\nd) Governo de Tancredo Neves\ne) Governo de Luís Inácio Lula da Silva",
+      "answer": "a"
+    },
+    {
+      "question": "Mao Tsé-tung, Jean Jacques Dessalines e Nelson Mandela foram respectivamente os governantes de quais países?",
+      "choices": "a) Japão, França e Angola\nb) Índia, Alemanha e Portugal\nc) China, Haiti e África do Sul\nd) Taiwan, Bélgica, Moçambique\ne) Macau, Suíça, Estados Unidos da América",
+      "answer": "c"
+    },
+    {
+      "question": "Chernobyl e Césio-137 fazem parte dos maiores acidentes nucleares da história. Em que países aconteceram?",
+      "choices": "a) Rússia e Espanha\nb) Ucrânia e Brasil\nc) Estados Unidos e Ucrânia\nd) Japão e Brasil\ne) Taiwan e Alemanha",
+      "answer": "b"
+    },
+    {
+      "question": "Como morreu Saddam Hussein?",
+      "choices": "a) Vítima de câncer\nb) Suicídio\nc) Ataque cardíaco\nd) Enforcado\ne) Decapitado",
+      "answer": "d"
+    },
+    {
+      "question": "Qual o país esteve na liderança militar da Minustah, a Missão das Nações Unidas para a Estabilização no Haiti?",
+      "choices": "a) Estados Unidos\nb) Argentina\nc) França\nd) Brasil\ne) República Dominicana",
+      "answer": "d"
+    },
+    {
+      "question": "Qual a doença sexualmente transmissível que virou surto no Brasil em 2017?",
+      "choices": "a) Febre amarela\nb) Zika\nc) Sífilis\nd) Hepatite B\ne) Candidíase",
+      "answer": "c"
+    },
+    {
+      "question": "Como forma de resistir às tradições do Halloween, qual a data comemorativa foi instituída no Brasil para ser celebrada no dia 31 de outubro?",
+      "choices": "a) Dia das bruxas\nb) Dia do folclore\nc) Dia da poupança\nd) Dia da música popular brasileira\ne) Dia do Saci",
+      "answer": "e"
+    },
+    {
+      "question": "Em que país se localizava Auschwitz, o maior campo de concentração nazi?",
+      "choices": "a) Alemanha\nb) Polônia\nc) Estados Unidos\nd) Áustria\ne) Japão",
+      "answer": "b"
+    },
+    {
+      "question": "Quem é Luiz Gabriel Tiago?",
+      "choices": "a) Brasileiro indicado ao Prêmio Nobel da Paz 2018\nb) Militar e político brasileiro\nc) Escritor e poeta português\nd) Escritor e poeta espanhol\ne) Nome verdadeiro de Luiz Gonzaga, o Gonzaguinha\n\n",
+      "answer": "a"
+    },
+    {
+      "question": "Que decisão de Donald Trump alarmou a comunidade internacional em dezembro de 2017?",
+      "choices": "a) Reconhecimento de Jerusalém como capital de Israel\nb) Retificação da decisão sobre a importação de troféus de caça\nc) Decreto contra a lei de saúde “Obamacare”\nd) Construção de muro na fronteira entre Estados Unidos e México\ne) Construção de oleodutos\n\n",
+      "answer": "a"
+    },
+    {
+      "question": "Em outubro de 2017 um crime em Goiânia chocou o Brasil. O que aconteceu?",
+      "choices": "a) Chacina da Candelária\nb) Um segurança ateou fogo em crianças de uma creche, provocando a morte de pelo menos 5\nc) Um adolescente disparou contra colegas em uma sala de aula, dois dos quais morreram\nd) Crime que ficou conhecido como Massacre de Realengo\ne) Um índio foi queimado enquanto dormia em um ponto de ônibus",
+      "answer": "c"
+    },
+    {
+      "question": "Qual o nome do líder da Coreia do Norte?",
+      "choices": "a) Pak Pong-ju\nb) Kim Jong-un\nc) Kim Jong-Il\nd) Moon Jae-in\ne) Xi Jinping",
+      "answer": "b"
+    },
+    {
+      "question": "Quais as consequências para o Brasil decorrentes da crise na Venezuela?",
+      "choices": "a) Sobrecarregamento no sistema público de saúde em Roraima\nb) Fortalecimento do Mercosul\nc) Aumento de mão-de-obra\nd) Crescimento de investimentos estrangeiros\ne) Melhoria nos serviços sociais a fim de atender os imigrantes venezuelanos",
+      "answer": "a"
+    },
+    {
+      "question": "Em 2018, um evento que aconteceu na França completa 500 anos. Trata-se de um caso em que várias pessoas morreram após passarem dias dançando. Qual o nome desse evento?",
+      "choices": "a) Peste negra\nb) Gripe francesa\nc) Praga de Estrasburgo\nd) Esclerose múltipla\ne) Epidemia de dança",
+      "answer": "e"
+    },
+    {
+      "question": "Em 2018 é o centenário da morte de que importante poeta brasileiro?",
+      "choices": "a) Monteiro Lobato\nb) Machado de Assis\nc) Aluísio de Azevedo\nd) Olavo Bilac\ne) Carlos Heitor Cony",
+      "answer": "d"
+    },
+    {
+      "question": "Quais destes grupos não devem tomar a vacina contra a febre amarela?",
+      "choices": "a) Transplantados, pacientes oncológicos, pessoas com alergia grave ao ovo\nb) Crianças até 2 anos, grávidas, doadores de sangue\nc) Pacientes com câncer, idosos acima de 75 anos\nd) Mulheres que querem engravidar, lactantes, bebês com menos de 1 ano, doentes que recebam tratamento de saúde especial\ne) Pessoas alérgicas, crianças até 2 anos, grávidas",
+      "answer": "a"
+    },
+    {
+      "question": "Quem é o autor do famoso discurso 'Eu tenho um sonho'?",
+      "choices": "a) Nelson Mandela\nb) Martin Luther King\nc) Zumbi dos Palmares\nd) Barack Obama\ne) Carlota Joaquina",
+      "answer": "b"
+    },
+    {
+      "question": "Que país sediará as Olimpíadas de 2020?",
+      "choices": "a) Catar\nb) Rússia\nc) França\nd) Estados Unidos\ne) Japão",
+      "answer": "e"
+    },
+    {
+      "question": "Quais as respectivas cores da reciclagem do papel, do vidro, do metal e do plástico?",
+      "choices": "a) azul, verde, amarelo e vermelho\nb) verde, azul, vermelho e amarelo\nc) vermelho, amarelo, verde e azul\nd) azul, amarelo, verde e vermelho\ne) verde, amarelo, azul e vermelho",
+      "answer": "a"
+    },
+    {
+      "question": "Que acontecimento importante para a história da humanidade teve lugar em 20 de julho de 1969?",
+      "choices": "a) Chegada do homem à Lua\nb) Fim do Apartheid\nc) Lançamento das bombas atômicas em Hiroshima e Nagasaki\nd) Lançamento do álbum dos Beatles Abbey Road\ne) Envio do primeiro e-mail da história",
+      "answer": "a"
+    },
+    {
+      "question": "Quais as maiores pandemias da história?",
+      "choices": "a) Gripe espanhola e câncer\nb) Varíola e hipertensão\nc) Peste negra e covid-19\nd) Cólera e colesterol\ne) Asma e Gripe espanhola\n\n",
+      "answer": "c"
+    },
+    {
+      "question": "Qual das alternativas apresenta os motivos de cancelamento das Olimpíadas de 1916, 1940 e 1944?",
+      "choices": "a) Atrasos nas obras dos estádios\nb) Roubo da tocha olímpica\nc) Primeira Guerra Mundial e coronavírus\nd) Primeira e Segunda guerras mundiais\ne) Falta de financiamento\n\n",
+      "answer": "d"
+    },
+    {
+      "question": "Quem é Abraham Weintraub?",
+      "choices": "a) Ministro da Educação do Brasil entre 2019 e 2020\nb) Compositor de origem judaica\nc) Ex-agente secreto israelense\nd) Sociólogo e ativista brasileiro\ne) Rabino israelense",
+      "answer": "a"
+    },{
+      "question": "Em qual das alternativas todos são sintomas mais comuns do covid-19.",
+      "choices": "a) Febre, tosse e diarreia\nb) Febre, tosse e dificuldades para respirar\nc) Dor de cabeça, febre e tontura\nd) Mal-estar, vômitos e diarreia\ne) Perda de visão, febre e tosse",
+      "answer": "b"
+    },
+    {
+      "question": "Quem são os autores das seguintes frases?\n\n'Se queres prever o futuro, estuda o passado.'\n'Cada segundo é tempo para mudar tudo para sempre.'",
+      "choices": "a) Augusto Cury e João Paulo II\nb) Albert Camus e Albert Einstein\nc) Victor Hugo e Eleanor Roosevelt\nd) Madre Teresa de Calcutá e Confúcio\ne) Confúcio e Charles Chaplin",
+      "answer": "e"
+    },
+    {
+      "question": "É um dos maiores nomes da literatura brasileira. Ucraniana, em 2020 faria 100 anos. De quem estamos falando?",
+      "choices": "a) Lygia Fagundes Telles\nb) Clarice Lispector\nc) Cecília Meireles\nd) Rachel de Queiroz\ne) Svetlana Aleksiévitch",
+      "answer": "b"
+    },
+    {
+      "question": "Que acontecimento histórico comemorou 30 anos em 9 de novembro de 2019?",
+      "choices": "a) Queda da Bastilha\nb) Grande depressão\nc) Transferência da soberania de Macau à China\nd) Queda do muro de Berlim\ne) Revolução cubana",
+      "answer": "d"
+    },
+    {
+      "question": "Quem é a primeira santa nascida no Brasil, canonizada em 2019?",
+      "choices": "a) Santa Dulce dos Pobres\nb) Nossa Senhora Aparecida\nc) Madre Teresa de Calcutá\nd) Rainha Santa Isabel\ne) Nossa Senhora de Guadalupe",
+      "answer": "a"
+    },
+    {
+      "question": "Em que estado brasileiro nasceu a apresentador Xuxa?",
+      "choices": "a) Rio de Janeiro\nb) Rio Grande do Sul\nc) Santa Catarina\nd) Goiás",
+      "answer": "b"
+    },
+    {
+      "question": "Qual é o nome dado ao estado da água em forma de gelo?",
+      "choices": "a) Líquido\nb) Sólido\nc) Gasoso\nd) Vaporoso",
+      "answer": "b"
+    },
+    {
+      "question": "Qual era o apelido da cantora Elis Regina?",
+      "choices": "a) Gauchinha\nb) Paulistinha\nc) Pimentinha\nd) Andorina",
+      "answer": "c"
+    },
+    {
+      "question": "Quem é a namorada do Mickey?",
+      "choices": "a) Margarida\nb) Minnie\nc) A Pequena Sereia\nd) Olívia Palito",
+      "answer": "b"
+    },
+    {
+      "question": "Qual é o personagem do folclore brasileiro que tem uma perna só?",
+      "choices": "a) Cuca\nb) Negrinho do Pastoreio\nc) Boitatá\nd) Saci-Pererê",
+      "answer": "d"
+    },
+    {
+      "question": "Fidel Castro nasceu em que país?",
+      "choices": "a) Jamaica\nb) Cuba\nc) El Salvador\nd) México",
+      "answer": "b"
+    },
+    {
+      "question": "Quem proclamou a repúblíca no Brasil em 1889?",
+      "choices": "a) Duque de Caxias\nb) Marechal Rondon\nc) Dom Pedro II\nd) Marechal Deodoro",
+      "answer": "d"
+    },
+    {
+      "question": "Quem é o patrono do exército brasileiro?",
+      "choices": "a) Marechal Deodoro\nb) Barão de Mauá\nc) Duque de Caxias\nd) Marquês de Pombal",
+      "answer": "c"
+    },
+    {
+      "question": "Quem era o apresentador que reprovava os calouros tocando uma buzina?",
+      "choices": "a) Raul Gil\nb) Bolinha\nc) Flávio Cavalcanti\nd) Chacrinha",
+      "answer": "d"
+    },
+    {
+      "question": "O que era Frankstein, de Mary Shelley?",
+      "choices": "a) Monstro\nb) Gorila\nc) Príncipe\nd) Sapo",
+      "answer": "a"
+    },
+    {
+      "question": "Qual é o signo do zodíaco de quem nasce no dia do ano-novo?",
+      "choices": "a) Virgem\nb) Aquário\nc) Capricórnio\nd) Áries",
+      "answer": "c"
+    },
+    {
+      "question": "QUem fundou a fábrica de automóveis Ford?",
+      "choices": "a) Harrison Ford\nb) Gerald Ford\nc) Henry Ford\nd) Anna Ford",
+      "answer": "c"
+    },
+    {
+      "question": "Qual é a cor que se associa com os grupos ecológicos?",
+      "choices": "a) Preta\nb) Vermelha\nc) Azul\nd) Verde",
+      "answer": "d"
+    },
+    {
+      "question": "A água ferve a quantos graus centígrados?",
+      "choices": "a) 200\nb) 100\nc) 170\nd) 220",
+      "answer": "b"
+    },
+    {
+      "question": "Quando é comemorado o dia da independência do Brasil?",
+      "choices": "a) 21 de Abril\nb) 12 de Outubro\nc) 7 de Setembro\nd) 25 de Dezembro",
+      "answer": "c"
+    },
+    {
+      "question": "Qual lugar é também chamado de Santa Sé?",
+      "choices": "a) Veneza\nb) Vitória\nc) Vancouver\nd) Vaticano",
+      "answer": "d"
+    },
+    {
+      "question": "Quem tem por lema a frase: 'Sempre alerta'?",
+      "choices": "a) Médicos\nb) Escoteiros\nc) Bombeiros\nd) Policiais",
+      "answer": "b"
+    },
+    {
+      "question": "Quem foi o grande amor de Julieta?",
+      "choices": "a) Romeu\nb) Orfeu\nc) Hamlet\nd) Iago",
+      "answer": "a"
+    },
+    {
+      "question": "Quantos signos formam o zodíaco?",
+      "choices": "a) 9\nb) 10\nc) 11\nd) 12",
+      "answer": "d"
+    },
+    {
+      "question": "Vetapá é  uma comida típica de qual estado?",
+      "choices": "a) Paraná\nb) Santa Catarina\nc) São Paulo\nd) Bahia",
+      "answer": "d"
+    },
+    {
+      "question": "Como se chama o lugar onde são armazenadas as balas de um revólver?",
+      "choices": "a) Cano\nb) Tambor\nc) Agulha\nd) Gatilho",
+      "answer": "b"
+    },
+     {
+      "question": "Qual personagem da turma da Mônica tem apenas cinco fios de cabelo?",
+      "choices": "a) Mônica\nb) Cebolinha\nc) Cascão\nd) Magali",
+      "answer": "b"
+    },
+    {
+      "question": "Qual cantora tinha o apelido de 'Ternurinha' na época da jovem guarda?",
+      "choices": "a) Silvinha\nb) Wanderléia\nc) Gretchen\nd) Martinha",
+      "answer": "b"
+    },
+    {
+      "question": "O churrasco é considerado uma comida típica de qual estado??",
+      "choices": "a) Ceará\nb) Rio Grande do Sul\nc) Pará\nd) Maranhão",
+      "answer": "b"
+    },
+    {
+      "question": "Qual cantor é o pai da dupla Sandy e Júnior?",
+      "choices": "a) Leonardo\nb) Xororó\nc) Zezé Di Camargo\nd) Chitãozinho",
+      "answer": "b"
+    },
+    {
+      "question": "Quem foi o criador dos personagens Pedrinho,Narizinho e Emília?",
+      "choices": "a) Maurício de Souza\nb) Ziraldo\nc) Monteiro Lobato\nd) Machado de Assis",
+      "answer": "c"
+    },
+    {
+      "question": "Quem fundou a Microsoft?",
+      "choices": "a) Sultão de Brunei\nb) Akio Morita\nc) Bill Gates\nd) Príncipe Charles",
+      "answer": "c"
+    },
+    {
+      "question": "Qual é o nome dado ao pneu reserva do carro?",
+      "choices": "a) Calota\nb) Estepe\nc) Macaco\nd) Chave de Roda",
+      "answer": "b"
+    },
+    {
+      "question": "Qual é o nome do cachorro medroso do Salsicha, dos desenhos animados?",
+      "choices": "a) Floquinho\nb) Rin-tin-tin\nc) Lassie\nd) Scooby-Doo",
+      "answer": "d"
+    },
+    {
+      "question": "Quantas dentições naturais tem o ser humano durante a vida?",
+      "choices": "a) 1\nb) 2\nc) 3\nd) 4",
+      "answer": "b"
+    },
+    {
+      "question": "Edinho, filho de Pelé, jogou no Santos em que posição?",
+      "choices": "a) Zagueiro\nb) Goleiro\nc) Atacante\nd) Armador",
+      "answer": "b"
+    },
+    {
+      "question": "Qual é a pedra preciosa mais dura encontrada na natureza?",
+      "choices": "a) Esmeralda\nb) Rubi\nc) Pérola\nd) Diamante",
+      "answer": "d"
+    },
+    {
+      "question": "Como se chama o lugar onde se guardam vinhos?",
+      "choices": "a) Adega\nb) Biblioteca\nc) Sótão\nd) Sala",
+      "answer": "a"
+    },
+    {
+      "question": "Qual cantor ficou conhecido como o 'rei do rock'?",
+      "choices": "a) Frank Sinatra\nb) Little Richard\nc) Elvis Presley\nd) Richie Valens",
+      "answer": "c"
+    },
+    {
+      "question": "Quem é o inimigo do Piu-Piu nos desenhos animados?",
+      "choices": "a) Félix\nb) Tom\nc) Frajola\nd) Mingau",
+      "answer": "c"
+    },
+    {
+      "question": "Joana Prado é o nome verdadeiro de qual artista?",
+      "choices": "a) Tiazinha\nb) Feiticeira\nc) Lady Lu\nd) Sheila Mello",
+      "answer": "b"
+    },
+    {
+      "question": "Quantos dias tem um ano bissexto?",
+      "choices": "a) 364\nb) 365\nc) 366\nd) 367",
+      "answer": "c"
+    },
+    {
+      "question": "Qual é o réptil que muda de cor conforme o lugar em que está?",
+      "choices": "a) Sapo\nb) Camaleão\nc) Lagarto\nd) Jacaré",
+      "answer": "b"
+    },
+    {
+      "question": "Qual é a duração de cada tempo de uma partida de futebol?",
+      "choices": "a) 45 Minutos\nb) 90 Minutos\nc) 120 Minutos\nd) 150 Minutos",
+      "answer": "b"
+    },
+    {
+      "question": "Onde fica o centro da indústria cinematográfica nos EUA??",
+      "choices": "a) Nova York\nb) Las Vegas\nc) New Orleans\nd) Hollywood",
+      "answer": "d"
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+  ]
+
+}

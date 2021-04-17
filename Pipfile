@@ -1,0 +1,22 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+discord = "*"
+selenium = "*"
+html5lib = "*"
+beautifulsoup4 = "*"
+pillow = "*"
+requests = "*"
+pynacl = "*"
+youtube-dl = "*"
+quickdraw = "*"
+unidecode = "*"
+googletrans = "*"
+
+[requires]
+python_version = "3.8"
